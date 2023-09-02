@@ -54,8 +54,9 @@ from modules.Annonces import *
 # infos = soup.select(".article")
 # print(len(infos))
 
-annonces = NexityAnnonces(['lille', 'la madeleine'], 850, 20)
+annonces = GLVAnnonces(['lille', 'la madeleine'], 850, 20)
 # print(annonces.get_raw_response())
+# print(annonces.query_url())
 # text = requests.get(annonces.query_url()).text
 
 found = annonces.get_new_annonces({})

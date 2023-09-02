@@ -430,6 +430,18 @@
             "coordonnees": null,
             "disponibilite": null,
             "publication": null
+        },
+        "GES02220324-799": {
+            "ville": "Lille",
+            "prix": "\n710",
+            "surface": "41.43",
+            "url": "https://www.citya.com/annonces/location/appartement/lille-59350/GES02220324-799",
+            "description": "EXCLUSIVIT\u00c9 - LILLE GAMBETTA\nEn location : Citya Descampiaux Gambetta vous pr\u00e9sente cet appartement 2 pi\u00e8ces de 41,43 m\u00b2 situ\u00e9 \u00e0 [...]\n                            LILLE (59000). \nSitu\u00e9 au 3\u00e8me \u00e9tage d'une r\u00e9sidence s\u00e9curis\u00e9e avec concierge, il se compose d'une entr\u00e9e, d'un s\u00e9jour de 13 m\u00b2 avec cuisine am\u00e9nag\u00e9e, une chambre s\u00e9par\u00e9e et une salle de bains avec baignoire. L'immeuble b\u00e9n\u00e9ficie d'un chauffage collectif aliment\u00e9 au gaz.\nCet appartement poss\u00e8de aussi une cave.\nEmplacement id\u00e9al, \u00e0 proximit\u00e9 des commerces, des \u00e9coles, des transports en commun et autres commodit\u00e9s\nVotre agence immobili\u00e8re Citya Descampiaux Gambetta vous invite \u00e0 d\u00e9couvrir cet appartement \u00e0 louer en prenant RDV avec l'un de nos n\u00e9gociateurs immobilier.  Le bien est soumis au statut de la copropri\u00e9t\u00e9. \n\n Loyer de 710,00 euros par mois charges comprises dont 90,00 euros par mois de provision pour charges (soumis \u00e0 la r\u00e9gularisation annuelle). \n Soit avec Assurance Habitation et Assistance* ( 16.00 euros ) : 726,00 euros. \n Les honoraires charge locataire sont de 538,59 euros ( soit 13,00 euros/m\u00b2 ) dont 124,29 euros pour \u00e9tat des lieux ( soit 3,00 euros/m\u00b2 ). \n Vous pouvez consulter les bar\u00e8mes d'honoraires \u00e0 l'adresse suivante : \n https://www.citya.com/agences-immobilieres/lille-59350/178#bareme-location \nMontant estim\u00e9 des d\u00e9penses annuelles d'\u00e9nergie pour un usage standard : entre 550 et 790 euros. Prix moyens des \u00e9nergies index\u00e9s en 2021. Zone soumise \u00e0 encadrement des loyers. Le loyer de base du bien propos\u00e9 est de 620 euros, le loyer de r\u00e9f\u00e9rence major\u00e9 (fix\u00e9 par arr\u00eat\u00e9 pr\u00e9fectoral) est de 667,023 eurosLes informations sur les risques auxquels ce bien est expos\u00e9 sont disponibles sur le site G\u00e9orisques : https://www.georisques.gouv.fr.  *Service facultatif. Contribution annuelle \"attentats\" non comprise. Voir conditions en agence. \n ",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "01/09/2023 20:08:18"
         }
     },
     "FONCIA": {
@@ -2138,6 +2150,56 @@
             "disponibilite": null,
             "publication": null,
             "detection": "01/09/2023 11:10:12"
+        },
+        "FL0784749": {
+            "ville": "",
+            "prix": "848",
+            "surface": "76",
+            "url": "https://www.nexity.fr/location/FL0784749",
+            "description": "",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "02/09/2023 10:46:38"
+        }
+    },
+    "GLV": {
+        "0620GL": {
+            "ville": "LILLE",
+            "prix": "565",
+            "surface": null,
+            "url": "https://www.glv-immobilier.fr/fiches/3-32-35_44241012/bel-appartement-t2-vieux-lille.html?search_id=1775915508437856&offset=0&",
+            "description": "",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "02/09/2023 11:22:57"
+        },
+        "2735LL": {
+            "ville": "LA MADELEINE",
+            "prix": "850",
+            "surface": null,
+            "url": "https://www.glv-immobilier.fr/fiches/3-32-35_34789916/appartement-t2-52-m2-la-madeleine-avec-2-balcons.html?search_id=1775915508437856&offset=1&",
+            "description": "",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "02/09/2023 11:22:57"
+        },
+        "0621GL": {
+            "ville": "LILLE",
+            "prix": "810",
+            "surface": null,
+            "url": "https://www.glv-immobilier.fr/fiches/3-32-37_52980505/appartement-lille-4-piece-s-82-4-m2.html?search_id=1775915508437856&offset=2&",
+            "description": "",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "02/09/2023 11:22:57"
         }
     }
 }
