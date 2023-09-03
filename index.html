@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Annonces</title>
+</head>
+<body>
+    <div class="annonces"></div>
+    
+</body>
+<script>
+
+    function getAnnonces() {
+        const url = 'https://raw.githubusercontent.com/haleczander/annonces_immo/master/database/new.json';
+        fetch(url)
+        // .then((resp) => console.log(resp))
+        .then((resp) => resp.json())
+        .then((data) => displayAnnonces(data))
+        .catch(function(error) {
+            console.log(error);
+        });
+    }
+
+    function displayAnnonces(annonces) {
+        const list = []
+        const annoncesDiv =  document.querySelector('.annonces');
+        annoncesDiv.innerHTML = '';
+        for (let timestamp in annonces) {
+            annonces[timestamp].forEach(annonce => {
+                list.push(annonce);
+            });
+        };
+        list.sort((a, b) => a.detection < b.detection ? -1 : 1);
+        list.forEach(annonce => {
+            const div = document.createElement('div');
+            div.innerHTML = `<p><b>${annonce.prix}</b> € - <b>${annonce.surface}</b>m² - <a href="${annonce.url}">${annonce.url.split('/')[2].split('.')[1].toUpperCase()}</a></p>`;
+            annoncesDiv.appendChild(div);
+        });   
+
+    }
+    getAnnonces();
+    setInterval(getAnnonces, 1000 * 60 * 5)
+</script>
+</html>

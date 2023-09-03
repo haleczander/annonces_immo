@@ -26,8 +26,11 @@ def update_annonces(site, villes, prix, surface, classe, db, nouvelles_annonces)
         printTab(f'{site} : {str(e)}')
     
 def clear_old_new(new):
-    printTab(f'Nettoyage des anciennes nouvelles annonces ...')
-    new_new = {timestamp: annonces for timestamp, annonces in new.items() if time.time()-float(timestamp) < 60*60*24*7}
+    l = len(new)
+    new_new = {timestamp: annonces for timestamp, annonces in new.items() if float(timestamp)-time.time() > 60*60*24*7}
+    nl = len(new_new)
+    if nl < l:
+        printTab(f'Nettoyage de {l-nl} anciennes annonces.')
     return new_new
 
 def main(villes, prix, surface, sites):
@@ -48,11 +51,17 @@ def main(villes, prix, surface, sites):
     printDash()
     print(f'Nombre total de nouvelles annonces : {total}')
     [print('\t', f'{annonce["prix"]}€', f'{annonce["surface"]}m²', annonce['url']) for annonce in nouvelles_annonces]
+    
     [winsound.Beep(300, 250) for i in range(total if total <= 5 else 5)]
-    if len(nouvelles_annonces)>0 : new[time.time()] = nouvelles_annonces
+    if len(nouvelles_annonces)>0 : 
+        new[time.time()] = nouvelles_annonces
+        
     
     json.dump(new, open(new_file, "w"), indent=4)
     json.dump(db, open(db_file, "w"), indent=4)
+    os.system("git add *")
+    os.system("git commit -m \"Mise à jour des nouvelles annonces\"")
+    os.system("git push")
     
 
 import atexit
