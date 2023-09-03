@@ -11,7 +11,9 @@
 </body>
 <script>
     function getAnnonces() {
-        const url = 'https://raw.githubusercontent.com/haleczander/annonces_immo/master/database/new.json';
+        rng=Math.random(1,10000000);
+        console.log(rng)
+        const url = 'https://raw.githubusercontent.com/haleczander/annonces_immo/master/database/new.json?rng='+rng;;
         fetch(url, {header:{'Cache-Control': "no-cache"}})
         .then((resp) => resp.json())
         .then((data) => displayAnnonces(data))
@@ -21,7 +23,6 @@
     }
 
     function displayAnnonces(annonces) {
-        console.log(annonces);
         const list = []
         const annoncesDiv =  document.querySelector('.annonces');
         annoncesDiv.innerHTML = '';
