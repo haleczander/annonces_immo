@@ -59,9 +59,9 @@ def main(villes, prix, surface, sites):
     
     json.dump(new, open(new_file, "w"), indent=4)
     json.dump(db, open(db_file, "w"), indent=4)
-    # os.system("git add *")
-    # os.system("git commit -m \"Mise à jour des nouvelles annonces\"")
-    # os.system("git push")
+    os.system("git add *")
+    os.system("git commit -m \"Mise à jour des nouvelles annonces\"")
+    os.system("git push")
     
 
 import atexit
