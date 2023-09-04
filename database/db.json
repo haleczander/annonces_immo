@@ -1363,6 +1363,18 @@
             "disponibilite": null,
             "publication": "2023-07-19T14:39:09+02:00",
             "detection": "04/09/2023 13:29:22"
+        },
+        "330444689": {
+            "ville": "Lille",
+            "prix": 574.77,
+            "surface": 28.6,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330444689.htm",
+            "description": "lille face la gare lille flandres au 3\u1d49 \u00e9tage tb standing, type 2 comprenant: une salle de s\u00e9jour, cuisine \u00e9quip\u00e9e en retrait, une salle de bains et wc, une chambre. id\u00e9alement bien situ\u00e9",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-04T13:47:28+02:00",
+            "detection": "04/09/2023 19:28:54"
         }
     },
     "SERGIC": {
