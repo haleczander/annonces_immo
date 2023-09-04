@@ -1,1 +1,19 @@
-{}
+{
+    "1693826967.2682958": [
+        {
+            "ville": "Lille",
+            "prix": 420,
+            "surface": 25.3,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330445061.htm",
+            "description": "lille \u00e0 deux pas du m\u00e9tro r\u00e9publique studette meubl\u00e9e au 1\u1d49\u02b3 \u00e9tage pi\u00e8ce principale, coin cuisine \u00e9quip\u00e9e, lit en mezzanine, salle de douche et wc eau, chauffage, \u00e9lectricit\u00e9 inclus dans les charges.",
+            "images": [
+                "https://storage.fonciamillenium.net/thumbnail/63e82c0006eecd6a72ec3236/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c0017a0ef24f4fce173/true/640/480"
+            ],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-07-19T14:39:09+02:00",
+            "detection": "04/09/2023 13:29:22"
+        }
+    ]
+}
