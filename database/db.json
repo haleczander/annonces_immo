@@ -2021,6 +2021,18 @@
             "coordonnees": null,
             "disponibilite": null,
             "publication": null
+        },
+        "155538189": {
+            "ville": "LILLE",
+            "prix": 533,
+            "surface": 26,
+            "url": "https://www.ledoux.fr/appartement-location-LILLE-59-155538189.html",
+            "description": "\nJoli studio situ\u00e9 au deuxi\u00e8me \u00e9tage, \u00e0 proximit\u00e9 de tous les commerces comprenant une entr\u00e9e, un s\u00e9jour avec coin cuisine am\u00e9nag\u00e9e et \u00e9quip\u00e9e, une salle de bain avec baignoire et WC, l'appartement dipose d'un parking.\n",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "04/09/2023 21:43:54"
         }
     },
     "LILLE IMMO": {
