@@ -27,7 +27,7 @@ def update_annonces(site, villes, prix, surface, classe, db, nouvelles_annonces)
     
 def clear_old_new(new):
     l = len(new)
-    new_new = {timestamp: annonces for timestamp, annonces in new.items() if time.time()-float(timestamp) > 60*60*24*7}
+    new_new = {timestamp: annonces for timestamp, annonces in new.items() if time.time()-float(timestamp) < 60*60*24*7}
     nl = len(new_new)
     if nl < l:
         printTab(f'Nettoyage de {l-nl} anciennes annonces.')
@@ -59,9 +59,9 @@ def main(villes, prix, surface, sites):
     
     json.dump(new, open(new_file, "w"), indent=4)
     json.dump(db, open(db_file, "w"), indent=4)
-    os.system("git add *")
-    os.system("git commit -m \"Mise à jour des nouvelles annonces\"")
-    os.system("git push")
+    # os.system("git add *")
+    # os.system("git commit -m \"Mise à jour des nouvelles annonces\"")
+    # os.system("git push")
     
 
 import atexit
