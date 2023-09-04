@@ -27,7 +27,7 @@ def update_annonces(site, villes, prix, surface, classe, db, nouvelles_annonces)
     
 def clear_old_new(new):
     l = len(new)
-    new_new = {timestamp: annonces for timestamp, annonces in new.items() if float(timestamp)-time.time() > 60*60*24*7}
+    new_new = {timestamp: annonces for timestamp, annonces in new.items() if time.time()-float(timestamp) > 60*60*24*7}
     nl = len(new_new)
     if nl < l:
         printTab(f'Nettoyage de {l-nl} anciennes annonces.')
