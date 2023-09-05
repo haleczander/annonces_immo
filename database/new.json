@@ -265,5 +265,51 @@
             "publication": "2023-09-05T11:27:46+02:00",
             "detection": "05/09/2023 19:28:55"
         }
+    ],
+    "1693937640.3835382": [
+        {
+            "ville": "Lille",
+            "prix": "763",
+            "surface": "48",
+            "url": "https://www.sergic.com/annonces-immobilieres/location-2-pieces-48-59800-lille-13-0987-02-1219/",
+            "description": "\nSecteur du Vieux-Lille, dans une r\u00e9sidence s\u00e9curis\u00e9e situ\u00e9e au calme, ce bel appartement type 2 vous offre une entr\u00e9e, un s\u00e9jour ouvrant sur un balcon, une cuisine ind\u00e9pendante, une chambre, une salle de bains et wc s\u00e9par\u00e9s. Le bien dispose d\u2019un parking en sous-sol. Le chauffage est individuel \u00e9lectrique. Les informations sur les risques auxquels ce bien est expos\u00e9 sont disponibles sur le site G\u00e9orisque : https://www.georisques.gouv.fr\n",
+            "images": [
+                "https://www.sergic.com/wp-content/uploads/2023/09/6fbd55e595170646d9e6c7548e636a7e.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/a3372f256fcaf4f167de39c558755d10.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/1e523fe8837f4f5f4a9cad7f0e3c9fbe.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/2397f8a4835a459ca6f5ebdda6f03b3c.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/1041719b7dfb58ddbbe6caed3c7bf8fc.jpg"
+            ],
+            "coordonnees": [
+                "50.6478877021",
+                "3.059802413"
+            ],
+            "disponibilite": "20230922",
+            "publication": null,
+            "detection": "05/09/2023 20:13:59"
+        },
+        {
+            "ville": "Lille",
+            "prix": "768",
+            "surface": "45",
+            "url": "https://www.sergic.com/annonces-immobilieres/location-2-pieces-45-59800-lille-07-0799-01-0037/",
+            "description": "\nDISPONIBLE AU 15 SEPTEMBRE. Secteur Vauban/La Catho, \u00e0 proximit\u00e9 des transports en commun et de toutes commodit\u00e9s. Venez d\u00e9couvrir ce Type 2 en duplex, au 5e \u00e9tage avec ascenseur d\u2019une r\u00e9sidence s\u00e9curis\u00e9e. L\u2019appartement vous offre une entr\u00e9e, un wc s\u00e9par\u00e9 de la salle de bain, un s\u00e9jour, une cuisine semi s\u00e9par\u00e9e et \u00e9quip\u00e9e. A l\u2019\u00e9tage, vous d\u00e9couvrirez une belle chambre avec balcon attenant et une salle de bain. Le logement dispose de placards de rangement. Vous b\u00e9n\u00e9ficierez \u00e9galement d\u2019une place de parking privative dans la r\u00e9sidence. D\u00e9posez votre dossier candidat locataire en ligne sur sergic.com avant visite ou contactez moi au 06 73 64 13 13 pour toute demande d\u2019information compl\u00e9mentaire. Les informations sur les risques auxquels ce bien est expos\u00e9 sont disponibles sur le site G\u00e9orisque : https://www.georisques.gouv.fr\n",
+            "images": [
+                "https://www.sergic.com/wp-content/uploads/2023/09/0db81840ce74124738f3e69bd2ad869e.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/e050cea3dbd2208f897f64ab8a877876.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/4e696ffb817b8ca27dff918f8814f360.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/1b85f0cbbbaad87e8b9e3cfebd899e02.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/8572eb97f400b7cacfaacffdd2cd0ce6.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/42b1f9a69acd163899681162b35d9000.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/71746e1b53d6bd04a426302fc1e4fa16.jpg"
+            ],
+            "coordonnees": [
+                "50.6346626881",
+                "3.0481311221"
+            ],
+            "disponibilite": "20230915",
+            "publication": null,
+            "detection": "05/09/2023 20:13:59"
+        }
     ]
 }
