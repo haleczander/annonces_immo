@@ -2057,6 +2057,18 @@
             "coordonnees": null,
             "disponibilite": null,
             "publication": null
+        },
+        "LG8332": {
+            "ville": "Lille Vieux Lille",
+            "prix": "796",
+            "surface": "25",
+            "url": "https://www.lille-immo.fr/location/lille/t1/annonce-immobiliere-LG8332",
+            "description": "\n\nT1 bis meubl\u00e9 - VIEUX-LILLE\nMagnifique T1\u00a0bis meubl\u00e9 de 25,27 m2 situ\u00e9 au 37 rue Esquermoise, en plein coeur du Vieux-Lille, comprenant une entr\u00e9e donnant sur une charmante pi\u00e8ce de vie avec coin nuit en mezzanine et coin cuisine \u00e9quip\u00e9e (plaques, hotte,...\n\n",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "05/09/2023 10:43:54"
         }
     },
     "ORPI": {
