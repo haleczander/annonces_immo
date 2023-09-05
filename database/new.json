@@ -83,5 +83,32 @@
             "publication": null,
             "detection": "05/09/2023 10:43:54"
         }
+    ],
+    "1693916039.4707768": [
+        {
+            "ville": "Lille",
+            "prix": "736",
+            "surface": "48",
+            "url": "https://www.sergic.com/annonces-immobilieres/location-2-pieces-48-59000-lille-07-0485-01-0027/",
+            "description": "\nA deux pas de la station de m\u00e9tro Cormontaigne, nous vous proposons ce tr\u00e8s bel appartement situ\u00e9 dans une r\u00e9sidence r\u00e9cente offrant: un hall d\u2019entr\u00e9e avec placard, un s\u00e9jour lumineux et spacieux, une cuisine ouverte am\u00e9nag\u00e9e, une chambre, une salle de bains avec une baignoire. Le bien dispose d\u2019une place de parking privative en sous-sol. Le chauffage est \u00e9lectrique individuel. Les informations sur les risques auxquels ce bien est expos\u00e9 sont disponibles sur le site G\u00e9orisque : https://www.georisques.gouv.fr\n",
+            "images": [
+                "https://www.sergic.com/wp-content/uploads/2023/09/a2bb0ee2f90c931977e2fa3975271f8d.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/414f60ebce88758720d73ce28a179d61.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/876d6b926b6939b05e1a6f43179c53e2.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/c2322a9abdb0c5169d29b180591e2bf1.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/2e8d4c38353716ab596800b04470f6c2.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/dc0999d46166c1dba709e219704570c4.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/2b71575bbb64f8b8427e085c1ab6a47b.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/89d796dee633837a4882fabaf9e758f8.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/f2ef436a047f21e4e0e5383ac6f3a57c.jpg"
+            ],
+            "coordonnees": [
+                "50.6242980957",
+                "3.0456860065"
+            ],
+            "disponibilite": "20230922",
+            "publication": null,
+            "detection": "05/09/2023 14:13:59"
+        }
     ]
 }
