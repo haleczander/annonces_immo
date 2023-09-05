@@ -2148,6 +2148,30 @@
             "disponibilite": null,
             "publication": null,
             "detection": "04/09/2023 10:49:40"
+        },
+        "B-E0FJ29": {
+            "ville": "Lille",
+            "prix": 822,
+            "surface": 61.1,
+            "url": "https://www.orpi.com/annonce-location-appartement-t3-lille-59000-b-e0fj29",
+            "description": "(GAD) RESIDENCE PIX'L - RUE PAUL PARISOT LILLE Appartement de 61m2  au 1er \u00e9tage d'une r\u00e9sidence datant de 2014. Magnifique type 3 avec une terrasse d \u2026",
+            "images": [
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/3/8/9/7/2/3/3/3897233a--202008111022.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/3/8/9/7/2/3/3/3897233b--202008111022.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/3/8/9/7/2/3/3/3897233c--202008111022.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/3/8/9/7/2/3/3/3897233d--202008111022.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/3/8/9/7/2/3/3/3897233e--202008111022.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/3/8/9/7/2/3/3/3897233f--202008111022.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/3/8/9/7/2/3/3/3897233g--202008111022.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/3/8/9/7/2/3/3/3897233h--202008111022.jpg"
+            ],
+            "coordonnees": [
+                50.603778165223,
+                3.0509376525879
+            ],
+            "disponibilite": null,
+            "publication": null,
+            "detection": "05/09/2023 07:43:54"
         }
     },
     "NEXITY": {
