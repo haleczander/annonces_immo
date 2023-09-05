@@ -151,5 +151,119 @@
             "publication": null,
             "detection": "05/09/2023 18:43:55"
         }
+    ],
+    "1693934940.7809331": [
+        {
+            "ville": "Lille",
+            "prix": 655,
+            "surface": 32.2,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330954977.htm",
+            "description": "appartement t1 bis comprenant cuisine pi\u00e9ce ouverte et  salle de bains et wc  et une chmabre",
+            "images": [
+                "https://storage.fonciamillenium.net/thumbnail/64b0125e374394d757b53c69/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/64b0124bb8124572f91fc912/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/64b01255374394d757b538d1/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/64b0126ab8124572f91fd192/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/64b012723ca3d4d2881134c4/true/640/480"
+            ],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-05T16:15:31+02:00",
+            "detection": "05/09/2023 19:28:55"
+        },
+        {
+            "ville": "Lille",
+            "prix": 642.95,
+            "surface": 24.7,
+            "url": "https://fr.foncia.com/location/lille-59/appartement-meuble/330954896.htm",
+            "description": "studio meubl\u00e9 avec parking situ\u00e9 dans le vieux lille. compos\u00e9 d'une entr\u00e9e, pi\u00e8ce principale avec kitchenette salle de bains et wc",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-05T15:30:11+02:00",
+            "detection": "05/09/2023 19:28:55"
+        },
+        {
+            "ville": "Lille",
+            "prix": 627,
+            "surface": 49.9,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330615033.htm",
+            "description": "Lille quartier Bois Blancs, \u00e0 proximit\u00e9 du port fluvial, grands axes \u00e0 deux pas, petit immeuble dans rue calme, double vitrage, loggia et cave S\u00e9jour, cuisine, deux chambres, salle douche, WC et loggia",
+            "images": [
+                "https://storage.fonciamillenium.net/thumbnail/63e82c00f42f1069d4a59801/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c0079802a30d1a0a47f/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c00c3124feb01170345/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c0081c7963d0af186b5/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c00cb953045138198fc/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c00f8f5aafbc6a1ae9b/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c00abb0f5429344052f/true/640/480"
+            ],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-05T15:18:31+02:00",
+            "detection": "05/09/2023 19:28:55"
+        },
+        {
+            "ville": "La Madeleine",
+            "prix": 676.3,
+            "surface": 49.6,
+            "url": "https://fr.foncia.com/location/la-madeleine-59110/appartement/330948611.htm",
+            "description": "en coeur de ville, dans une r\u00e9sidence proche des commerces et transports. un appartement comprenant : une entr\u00e9e, un s\u00e9jour donnant sur un balcon, une cuisine ouverte, une chambre, une salle de bains, des wc et un parking.",
+            "images": [
+                "https://storage.fonciamillenium.net/thumbnail/63e82c00c2445a50edde518e/true/640/480"
+            ],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-05T14:02:06+02:00",
+            "detection": "05/09/2023 19:28:55"
+        },
+        {
+            "ville": "Lille",
+            "prix": 691.8,
+            "surface": 47.2,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330954717.htm",
+            "description": "au coeur de la rue nationale, t2 comprenant entr\u00e9e, s\u00e9jour, cuisine am\u00e9nag\u00e9e, 1 chambre, salle de bains et wc. chauffage collectif gaz.",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-05T12:42:27+02:00",
+            "detection": "05/09/2023 19:28:55"
+        },
+        {
+            "ville": "Lille",
+            "prix": 634.59,
+            "surface": 32.7,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330948423.htm",
+            "description": "dans r\u00e9sidence s\u00e9curis\u00e9e rue de toul, t2 comprenant entr\u00e9e avec penderie, s\u00e9jour donnant sur balcon, coin cuisine \u00e9quip\u00e9e, 1 chambre, sdb et wc s\u00e9par\u00e9s. parking en sous-sol. compl\u00e9ment de loyer de 20.55\u20ac pour le parking et balcon.",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-05T12:03:59+02:00",
+            "detection": "05/09/2023 19:28:55"
+        },
+        {
+            "ville": "Lille",
+            "prix": 723.11,
+            "surface": 50,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330950663.htm",
+            "description": "dans un quartier convoit\u00e9, immeuble s\u00e9curis\u00e9 et calme, appartement refait \u00e0 neuf, avec cuisine \u00e9quip\u00e9e, cave CAVE",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-05T11:53:31+02:00",
+            "detection": "05/09/2023 19:28:55"
+        },
+        {
+            "ville": "Lille",
+            "prix": 624,
+            "surface": 50,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330447067.htm",
+            "description": "lille quartier des bois blancs, quartier familial et agreable, petit immeuble calme, type 3 totalement r\u00e9nov\u00e9 avec loggia CAVE s\u00e9jour, cuisine, loggia, wc, salle de bains, deux chambres,",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-05T11:27:46+02:00",
+            "detection": "05/09/2023 19:28:55"
+        }
     ]
 }
