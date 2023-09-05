@@ -2209,6 +2209,31 @@
             "disponibilite": null,
             "publication": null,
             "detection": "05/09/2023 07:43:54"
+        },
+        "B-E0E2YM": {
+            "ville": "Lille",
+            "prix": 633,
+            "surface": 37.22,
+            "url": "https://www.orpi.com/annonce-location-appartement-t2-lille-59000-b-e0e2ym",
+            "description": "(G) CENTRE VILLE - SECTEUR ST MICHEL  Angles rue Jeanne d'Arc et Rue Jean Bart Tr\u00e8s bel appartement de type 2 comprenant une entr\u00e9e, un s\u00e9jour lumineu \u2026",
+            "images": [
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/3/8/2/1/0/0/8/3821008a--201905101432.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/3/8/2/1/0/0/8/3821008b--201905101432.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/3/8/2/1/0/0/8/3821008c--201905101432.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/3/8/2/1/0/0/8/3821008d--201905101432.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/3/8/2/1/0/0/8/3821008e--201905101432.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/3/8/2/1/0/0/8/3821008f--201905101432.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/3/8/2/1/0/0/8/3821008g--201905101432.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/3/8/2/1/0/0/8/3821008h--201905101432.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/3/8/2/1/0/0/8/3821008i--201905101432.jpg"
+            ],
+            "coordonnees": [
+                50.631564,
+                3.05644
+            ],
+            "disponibilite": null,
+            "publication": null,
+            "detection": "05/09/2023 17:58:55"
         }
     },
     "NEXITY": {
