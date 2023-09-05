@@ -137,5 +137,19 @@
             "publication": null,
             "detection": "05/09/2023 17:58:55"
         }
+    ],
+    "1693932244.2085018": [
+        {
+            "ville": "La Madeleine Botanique",
+            "prix": "690",
+            "surface": "42",
+            "url": "https://www.lille-immo.fr/location/lille/t2/annonce-immobiliere-L8317",
+            "description": "\n\nBeau T2 \u00e0 La Madeleine - LILLE !\nTr\u00e8s beau T2 non meubl\u00e9 de 42,91m2 situ\u00e9 171 rue du Ballon \u00e0 La Madeleine. Cet appartement au 3\u00e8me \u00e9tage d'une belle copropri\u00e9t\u00e9 s\u00e9curis\u00e9e comprend une entr\u00e9e avec rangements, une belle pi\u00e8ce de vie lumineuse donnant sur un...\n\n",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "05/09/2023 18:43:55"
+        }
     ]
 }
