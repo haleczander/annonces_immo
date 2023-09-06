@@ -1487,6 +1487,18 @@
             "disponibilite": null,
             "publication": "2023-09-05T11:27:46+02:00",
             "detection": "05/09/2023 19:28:55"
+        },
+        "330955192": {
+            "ville": "Lomme",
+            "prix": 630.16,
+            "surface": 43.9,
+            "url": "https://fr.foncia.com/location/lomme-59160/appartement/330955192.htm",
+            "description": "appartement de type 2 comprenant une cuisine equipee + loggia, une chambre, une salle de bain, un wc et une place de parking",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-05T17:15:53+02:00",
+            "detection": "06/09/2023 10:28:59"
         }
     },
     "SERGIC": {
