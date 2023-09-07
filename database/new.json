@@ -404,5 +404,19 @@
             "publication": "2023-09-06T15:19:58+02:00",
             "detection": "06/09/2023 19:29:00"
         }
+    ],
+    "1694051048.2328293": [
+        {
+            "ville": "Lille",
+            "prix": "569",
+            "surface": "25",
+            "url": "https://www.vacherand.fr/immobilier/location-appartement-lille/ref-AQ010203313",
+            "description": "Votre agence VACHERAND IMMOBILIER vous propose \u00e0 la location ce beau T1 bis de 24.63m2 situ\u00e9 au 3\u00e8me et dernier \u00e9tage d'un immeuble de la rue du...",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "07/09/2023 03:44:03"
+        }
     ]
 }
