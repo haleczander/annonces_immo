@@ -440,5 +440,29 @@
             "publication": null,
             "detection": "07/09/2023 11:44:03"
         }
+    ],
+    "1694086148.7925832": [
+        {
+            "ville": "Lille",
+            "prix": 551,
+            "surface": 30.93,
+            "url": "https://www.orpi.com/annonce-location-appartement-t1-lille-59000-b-e0ja19",
+            "description": "(G) LILLE - GAMBETTA- Rue Degland Situ\u00e9 dans une r\u00e9sidence r\u00e9cente et  s\u00e9curis\u00e9e, vous appr\u00e9cierez ce studio spacieux au 1er \u00e9tage avec ascenseur. Il \u2026",
+            "images": [
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/4/1/0/7/1/4/5/4107145a--201811261821.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/4/1/0/7/1/4/5/4107145b--201811261821.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/4/1/0/7/1/4/5/4107145c--201811261821.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/4/1/0/7/1/4/5/4107145d--201811261821.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/4/1/0/7/1/4/5/4107145e--201811261821.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/4/1/0/7/1/4/5/4107145f--201811261821.jpg"
+            ],
+            "coordonnees": [
+                50.625086,
+                3.04595
+            ],
+            "disponibilite": null,
+            "publication": null,
+            "detection": "07/09/2023 13:29:03"
+        }
     ]
 }
