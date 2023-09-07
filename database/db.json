@@ -1523,6 +1523,18 @@
             "disponibilite": null,
             "publication": "2023-09-06T15:19:58+02:00",
             "detection": "06/09/2023 19:29:00"
+        },
+        "330955740": {
+            "ville": "Lille",
+            "prix": 614,
+            "surface": 43.1,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330955740.htm",
+            "description": "dans une r\u00e9sidence r\u00e9cente , appartement t2 comprenant: un salon/sejour avec cuisine \u00e9quip\u00e9e, une chambre, une salle de bain avec wc. un emplacement de parking en sous-sol",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-07T16:23:16+02:00",
+            "detection": "07/09/2023 19:29:04"
         }
     },
     "SERGIC": {
