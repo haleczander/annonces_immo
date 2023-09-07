@@ -2501,6 +2501,26 @@
             "disponibilite": null,
             "publication": null,
             "detection": "05/09/2023 17:58:55"
+        },
+        "B-E2TG5N": {
+            "ville": "Lille",
+            "prix": 660,
+            "surface": 36.09,
+            "url": "https://www.orpi.com/annonce-location-appartement-t1-lille-59000-b-e2tg5n",
+            "description": "PROCHE PARC JEAN BAPTISTE LEBAS   T1 bis de 36m2 en r\u00e9sidence, compos\u00e9 d'un s\u00e9jour avec balcon, kitchenette \u00e9quip\u00e9e , une chambre, une salle de bain a \u2026",
+            "images": [
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/1/1/0/9/8/0/5/6/11098056a--202308091117.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/1/1/0/9/8/0/5/6/11098056b--202308091117.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/1/1/0/9/8/0/5/6/11098056c--202308091117.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/1/1/0/9/8/0/5/6/11098056d--202308091117.jpg"
+            ],
+            "coordonnees": [
+                50.623721,
+                3.063902
+            ],
+            "disponibilite": null,
+            "publication": null,
+            "detection": "07/09/2023 11:44:03"
         }
     },
     "NEXITY": {
