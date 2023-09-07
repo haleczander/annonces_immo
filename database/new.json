@@ -478,5 +478,19 @@
             "publication": "2023-09-07T16:23:16+02:00",
             "detection": "07/09/2023 19:29:04"
         }
+    ],
+    "1694117649.0276651": [
+        {
+            "ville": "LILLE",
+            "prix": 560,
+            "surface": 37,
+            "url": "https://www.ledoux.fr/appartement-location-LILLE-59-155626751.html",
+            "description": "\nAppartement T2 meubl\u00e9 joliment r\u00e9nov\u00e9 avec double vitrage et parquet situ\u00e9 au 1er \u00e9tage d'un immeuble calme. \nL'appartement dispose d'une entr\u00e9e, cuisine ouverte \u00e9quip\u00e9e et am\u00e9nag\u00e9e sur pi\u00e8ce principale, chambre, salle de bain avec douche et WC.\n \nN'h\u00e9istez pas \u00e0 nous contacter pour plus d'informations !\n",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "07/09/2023 22:14:04"
+        }
     ]
 }
