@@ -27,11 +27,16 @@ def update_annonces(site, villes, prix, surface, classe, db, nouvelles_annonces)
     
 def clear_old_new(new):
     l = len(new)
-    new_new = {timestamp: annonces for timestamp, annonces in new.items() if time.time()-float(timestamp) < 60*60*24}
+    new_new = []
+    curr_date = datetime.datetime.now()
+    for annonce in new :
+        date = datetime.datetime.strptime(annonce['detection'], "%d/%m/%Y %H:%M:%S")
+        if curr_date-date < datetime.timedelta(days=1):
+            new_new.append(annonce)
+        
     nl = len(new_new)
     if nl < l:
         printTab(f'Nettoyage de {l-nl} anciennes annonces.')
-    return new_new
 
 def main(villes, prix, surface, sites):
     printDash()
@@ -52,10 +57,7 @@ def main(villes, prix, surface, sites):
     print(f'Nombre total de nouvelles annonces : {total}')
     [print('\t', f'{annonce["prix"]}€', f'{annonce["surface"]}m²', annonce['url']) for annonce in nouvelles_annonces]
     
-    [winsound.Beep(300, 250) for i in range(total if total <= 5 else 5)]
-    if len(nouvelles_annonces)>0 : 
-        new[time.time()] = nouvelles_annonces
-        
+    [winsound.Beep(300, 250) for i in range(total if total <= 5 else 5)]        
     
     json.dump(new, open(new_file, "w"), indent=4)
     json.dump(db, open(db_file, "w"), indent=4)
