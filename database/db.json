@@ -2330,6 +2330,28 @@
             "disponibilite": "20231005",
             "publication": null,
             "detection": "05/09/2023 22:14:00"
+        },
+        "07_A4_857_001": {
+            "ville": "Lille",
+            "prix": "773",
+            "surface": "43",
+            "url": "https://www.sergic.com/annonces-immobilieres/location-2-pieces-43-59000-lille-07-a4-857-001/",
+            "description": "\nLille Nationale, \u00e0 proximit\u00e9 du quartier vauban et de la Citadelle et du centre. Nous       vous proposons \u00e0 la location ce beau T2 dans une r\u00e9sidence s\u00e9curis\u00e9e. Il vous offre un      hall d\u2019entr\u00e9e, un s\u00e9jour, une cuisine ouverte et amm\u00e9nag\u00e9e, une salle de bain avec          baignoire et wc. Le chauffage est \u00e9lectrique individuel.\nR\u00e9ference \u00e0 communiquer   07/A4/857/001\n",
+            "images": [
+                "https://www.sergic.com/wp-content/uploads/2023/09/5358b4ba02a89c7147fff6ef7e3960bf.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/2abe13e8aea3c81930f59690282de3a0.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/b39188d62f80dddd83fd5980af550293.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/a4064409ab2f8d1de3e2c326893b26a0.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/add6b8dce5fb5a4b89aba7bf682cc7fb.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/5c1b9756980b4dfaf75027ebe3d46813.jpg"
+            ],
+            "coordonnees": [
+                "50.6335587",
+                "3.0538473"
+            ],
+            "disponibilite": "20230920",
+            "publication": null,
+            "detection": "08/09/2023 04:14:12"
         }
     },
     "LEDOUX": {
