@@ -37,6 +37,7 @@ def clear_old_new(new):
     nl = len(new_new)
     if nl < l:
         printTab(f'Nettoyage de {l-nl} anciennes annonces.')
+    return new_new
 
 def main(villes, prix, surface, sites):
     printDash()
