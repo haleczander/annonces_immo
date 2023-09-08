@@ -31,7 +31,7 @@ def clear_old_new(new):
     curr_date = datetime.datetime.now()
     for annonce in new :
         date = datetime.datetime.strptime(annonce['detection'], "%d/%m/%Y %H:%M:%S")
-        if curr_date-date < datetime.timedelta(days=1):
+        if curr_date-date < datetime.timedelta(days=7):
             new_new.append(annonce)
         
     nl = len(new_new)
