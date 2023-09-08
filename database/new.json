@@ -616,5 +616,25 @@
             "publication": null,
             "detection": "08/09/2023 04:14:12"
         }
+    ],
+    "1694172553.9726791": [
+        {
+            "ville": "Lille",
+            "prix": 540,
+            "surface": 31.9,
+            "url": "https://fr.foncia.com/location/lille-59/appartement-meuble/330955665.htm",
+            "description": "SECTEUR LILLE CENTREAPPARTEMENT MEUBLE DE TYPE 1 COMPRENANT UNE PIECE DE VIE , UNE CUISINE , UNE SALLE DE BAINS",
+            "images": [
+                "https://storage.fonciamillenium.net/thumbnail/63e82c0016128e61b447913e/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c00a7429c751bff3075/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c0061aea50d2af8fea2/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c003e4a8882bb180d58/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c00c12612314da16957/true/640/480"
+            ],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-08T10:43:38+02:00",
+            "detection": "08/09/2023 13:29:08"
+        }
     ]
 }
