@@ -2777,6 +2777,30 @@
             "disponibilite": null,
             "publication": null,
             "detection": "04/09/2023 11:27:51"
+        },
+        "FL0784687": {
+            "ville": "",
+            "prix": "556",
+            "surface": "30",
+            "url": "https://www.nexity.fr/location/FL0784687",
+            "description": "",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "09/09/2023 07:38:15"
+        },
+        "FL0781179": {
+            "ville": "",
+            "prix": "657",
+            "surface": "54",
+            "url": "https://www.nexity.fr/location/FL0781179",
+            "description": "",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "09/09/2023 07:38:15"
         }
     },
     "GLV": {
