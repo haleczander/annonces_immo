@@ -1649,6 +1649,30 @@
             "disponibilite": null,
             "publication": "2023-09-08T10:43:38+02:00",
             "detection": "08/09/2023 13:29:08"
+        },
+        "330956364": {
+            "ville": "Lille",
+            "prix": 662.18,
+            "surface": 40.2,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330956364.htm",
+            "description": "dans un quartier r\u00e9sidentiel un beau t2 r\u00e9cent avec coin cuisine terrasse et parking en sous sol comprenant Entr\u00e9e, s\u00e9jour, coin cuisine, chambre, Salle de bains et wc",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-11T14:33:46+02:00",
+            "detection": "11/09/2023 19:26:25"
+        },
+        "330956345": {
+            "ville": "La Madeleine",
+            "prix": 830,
+            "surface": 66.8,
+            "url": "https://fr.foncia.com/location/la-madeleine-59110/appartement/330956345.htm",
+            "description": "un appartement comprenant : une entr\u00e9e, un double s\u00e9jour, une cuisine s\u00e9par\u00e9e \u00e9quip\u00e9e, une chambre, une salle de bains et des wc.",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-11T14:11:26+02:00",
+            "detection": "11/09/2023 19:26:25"
         }
     },
     "SERGIC": {
