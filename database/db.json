@@ -2394,6 +2394,33 @@
             "disponibilite": "20230920",
             "publication": null,
             "detection": "08/09/2023 04:14:12"
+        },
+        "07_0010_01_0008": {
+            "ville": "Lille",
+            "prix": "721",
+            "surface": "46",
+            "url": "https://www.sergic.com/annonces-immobilieres/location-2-pieces-46-59800-lille-07-0010-01-0008/",
+            "description": "\nSecteur vieux Lille, beau type 2 \u00e0 proximit\u00e9 des transports et des commerces. Cet appartement se compose d\u2019un hall d\u2019entr\u00e9e, d\u2019une cuisine ind\u00e9pendante, d\u2019un beau s\u00e9jour lumineux donnant sur un balcon, d\u2019une chambre avec placard int\u00e9gr\u00e9, d\u2019une salle de bain avec baignoire et de wc s\u00e9par\u00e9s. Le chauffage \u00e9lectrique est individuel. Les informations sur les risques auxquels ce bien est expos\u00e9 sont disponibles sur le site G\u00e9orisque : https://www.georisques.gouv.fr\n",
+            "images": [
+                "https://fb032bac920683adfccf563c3c1b5cd5-jpg",
+                "https://679e9f2643341e507f3a408ea3a26fef-jpg",
+                "https://17ac3c0ffc3232186e7432d3e114767b-jpg",
+                "https://eaa28c6374403272fb18ff7e03f59980-jpg",
+                "https://eb20f5ee982637e4a3315034421c1262-jpg",
+                "https://a1e34228d55cb8282b75796a4ca01a45-jpg",
+                "https://4ce598b197a71961cf0ba6a0f69c297c-jpg",
+                "https://c6dde328f5946115d010b47379c623df-jpg",
+                "https://8964edc7b5d17876341e8c04d27e3c35-jpg",
+                "https://caea64074477ed3e69a022b555b4c1c8-jpg",
+                "https://d007a32ed3e79f0fe18c24553297f4a7-jpg"
+            ],
+            "coordonnees": [
+                "50.6478904789",
+                "3.0633797646"
+            ],
+            "disponibilite": "20230902",
+            "publication": null,
+            "detection": "11/09/2023 20:11:30"
         }
     },
     "LEDOUX": {
