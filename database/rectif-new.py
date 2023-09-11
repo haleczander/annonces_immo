@@ -11,4 +11,5 @@ for agence, annonces in db.items():
         date =  datetime.datetime.strptime(annonce['detection'], "%d/%m/%Y %H:%M:%S")
         if curr_date-date < datetime.timedelta(days=3):
             new.append(annonce)
+            
 json.dump(new, open('database/new.json', 'w'), indent=4)

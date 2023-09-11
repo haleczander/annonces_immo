@@ -46,19 +46,21 @@ def main(villes, prix, surface, sites):
     db = json.load(open(db_file)) if os.path.isfile(db_file) else {}
     new = json.load(open(new_file)) if os.path.isfile(new_file) else {}
     new = clear_old_new(new)
-    new = []   
+    new_annonces = []   
 
-    threads = [threading.Thread(target=update_annonces, args=(site, villes, prix, surface, classe, db, new)) for site, classe in sites.items()]
+    threads = [threading.Thread(target=update_annonces, args=(site, villes, prix, surface, classe, db, new_annonces)) for site, classe in sites.items()]
     
     [thread.start() for thread in threads]
     [thread.join() for thread in threads]
         
-    total = len(new)
+    total = len(new_annonces)
     printDash()
     print(f'Nombre total de nouvelles annonces : {total}')
-    [print('\t', f'{annonce["prix"]}€', f'{annonce["surface"]}m²', annonce['url']) for annonce in new]
+    [print('\t', f'{annonce["prix"]}€', f'{annonce["surface"]}m²', annonce['url']) for annonce in new_annonces]
     
-    [winsound.Beep(300, 250) for i in range(total if total <= 5 else 5)]        
+    [winsound.Beep(300, 250) for i in range(total if total <= 5 else 5)]      
+    
+    new += new_annonces  
     
     json.dump(new, open(new_file, "w"), indent=4)
     json.dump(db, open(db_file, "w"), indent=4)
