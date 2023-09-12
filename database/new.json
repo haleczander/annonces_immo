@@ -187,5 +187,17 @@
         "disponibilite": "20230911",
         "publication": null,
         "detection": "12/09/2023 12:14:44"
+    },
+    {
+        "ville": "LILLE",
+        "prix": "720",
+        "surface": null,
+        "url": "https://www.glv-immobilier.fr/fiches/3-32-36_11905757/appartement-t3-55-m2-lille.html?search_id=1775915508437856&offset=1&",
+        "description": "",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": null,
+        "detection": "12/09/2023 15:14:39"
     }
 ]
