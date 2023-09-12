@@ -141,5 +141,51 @@
         "disponibilite": null,
         "publication": null,
         "detection": "12/09/2023 03:44:38"
+    },
+    {
+        "ville": "Lille",
+        "prix": "800",
+        "surface": "43",
+        "url": "https://www.sergic.com/annonces-immobilieres/location-2-pieces-43-59777-lille-14-0750-02-2137/",
+        "description": "\nSur le secteur d\u2019Euralille, \u00e0 proximit\u00e9 imm\u00e9diate des Gares Lille Europe et Lille Flandres, dans une R\u00e9sidence s\u00e9curis\u00e9e b\u00e9n\u00e9ficiant, vous d\u00e9couvrirez cet appartement qui se compose d\u2019un hall d\u2019entr\u00e9e, d\u2019un s\u00e9jour lumineux expos\u00e9 EST avec une terrasse, une cuisine s\u00e9par\u00e9e et \u00e9quip\u00e9e avec sa propre terrasse, une chambre avec un placard, une salle de bains et des wc s\u00e9par\u00e9s. Une place de parking au sous-sol de la R\u00e9sidence compl\u00e8te ce bien. Le chauffage est individuel \u00e9lectrique. Les informations sur les risques auxquels ce bien est expos\u00e9 sont disponibles sur le site G\u00e9orisque : https://www.georisques.gouv.fr\n",
+        "images": [
+            "https://www.sergic.com/wp-content/uploads/2023/09/43bf890e3e19a3033869cd32cade04ee.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/b3f5c3143004f2cda154bf50d13ed5da.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/3d69137909fec332e27bcab3c7c0bb2a.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/aa0e0369bb17f35032363abcab63c763.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/4e51018c21c3fcf64a892f5312dec768.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/c7e2fe4a4c5c237f71117247f22fb5b8.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/ffecc398e78b54ad6fa527392b5aa97e.jpg"
+        ],
+        "coordonnees": [
+            "50.6389909702",
+            "3.0800762177"
+        ],
+        "disponibilite": "20230911",
+        "publication": null,
+        "detection": "12/09/2023 12:14:44"
+    },
+    {
+        "ville": "Lille",
+        "prix": "627",
+        "surface": "47",
+        "url": "https://www.sergic.com/annonces-immobilieres/location-2-pieces-47-59000-lille-19-0119-01-0307/",
+        "description": "\nSecteur Lille Moulins, \u00e0 proximit\u00e9 du m\u00e9tro, des commerces, de la facult\u00e9 de Droit et du parc Jean-Baptiste Lebas. Nous vous proposons ce beau type 2 situ\u00e9 dans une r\u00e9sidence s\u00e9curis\u00e9e avec ascenseur. Il est compos\u00e9 d\u2019un hall d\u2019entr\u00e9e avec placard, d\u2019un vaste s\u00e9jour lumineux donnant sur un balcon, d\u2019une cuisine s\u00e9par\u00e9e et \u00e9quip\u00e9e (plaques de cuisson, r\u00e9frig\u00e9rateur), d\u2019une chambre avec placard int\u00e9gr\u00e9, d\u2019une salle de bains avec un branchement machine \u00e0 laver, des WC s\u00e9par\u00e9s. L\u2019appartement dispose \u00e9galement d\u2019un parking en sous-sol. Le chauffage est \u00e9lectrique et individuel. Les informations sur les risques auxquels ce bien est expos\u00e9 sont disponibles sur le site G\u00e9orisque : https://www.georisques.gouv.fr\n",
+        "images": [
+            "https://www.sergic.com/wp-content/uploads/2023/09/949db4070760eed2dfc1caced7b2e45c.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/313b10c2424f1ba03b63d30998785594.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/7f416eef5357eaf974acc811053b1f4d.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/2c7f4de66101b4aeb9e607b89cd8b66e.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/c20171fefc20d7f42966632199bd93cc.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/eba17ff6c87c9e93dbb460645e6783f6.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/b12e98be7f9b70e145f07321272b8abc.jpg"
+        ],
+        "coordonnees": [
+            "50.6201607246",
+            "3.0655798912"
+        ],
+        "disponibilite": "20230911",
+        "publication": null,
+        "detection": "12/09/2023 12:14:44"
     }
 ]
