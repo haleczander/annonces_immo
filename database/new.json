@@ -129,5 +129,17 @@
         "disponibilite": null,
         "publication": null,
         "detection": "12/09/2023 00:14:38"
+    },
+    {
+        "ville": "Lille",
+        "prix": "690",
+        "surface": "46",
+        "url": "https://www.vacherand.fr/immobilier/location-appartement-lille/ref-C50155CAZ1",
+        "description": "Votre agence VACHERAND IMMOBILIER vous propose \u00e0 la location ce T2 refait \u00e0 neuf d'une surface de 45 m2  \u00e0 proximit\u00e9 du m\u00e9tro MARBRERIEIl...",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": null,
+        "detection": "12/09/2023 03:44:38"
     }
 ]
