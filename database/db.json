@@ -3016,6 +3016,18 @@
             "disponibilite": null,
             "publication": null,
             "detection": "12/09/2023 15:14:39"
+        },
+        "0001GL": {
+            "ville": "LILLE",
+            "prix": "517",
+            "surface": null,
+            "url": "https://www.glv-immobilier.fr/fiches/3-32-34_45563460/appartement-t1-lille-nationale.html?search_id=1775915508437856&offset=1&",
+            "description": "",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "12/09/2023 16:44:40"
         }
     }
 }
