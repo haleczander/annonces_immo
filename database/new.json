@@ -247,5 +247,17 @@
         "disponibilite": null,
         "publication": null,
         "detection": "13/09/2023 18:04:22"
+    },
+    {
+        "ville": "Lille",
+        "prix": 490,
+        "surface": 30.9,
+        "url": "https://fr.foncia.com/location/lille-59/appartement/330956220.htm",
+        "description": "RESIDENCE AVEC ESPACES VERTS, ASCENSEUR ET CONCIERGE A PROXIMITE DES COMMERCES ET DU METRO Entr\u00e9e, cuisine, s\u00e9jour, salle de bains, wc, placard, parking.",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-13T16:28:50+02:00",
+        "detection": "13/09/2023 19:19:22"
     }
 ]
