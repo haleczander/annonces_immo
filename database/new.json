@@ -338,5 +338,26 @@
         "disponibilite": null,
         "publication": "2023-09-14T09:42:24+02:00",
         "detection": "14/09/2023 13:29:06"
+    },
+    {
+        "ville": "Lille",
+        "prix": 728,
+        "surface": 36.81,
+        "url": "https://www.orpi.com/annonce-location-appartement-t2-lille-59000-b-e1xpqp",
+        "description": "(G) -  T2  meubl\u00e9 dans r\u00e9sidence r\u00e9cente \u00e0 proximit\u00e9 du Bois de Boulogne  A d\u00e9couvrir : beau 2 pi\u00e8ces meubl\u00e9 offrant un s\u00e9jour avec un petit  balcon e \u2026",
+        "images": [
+            "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/9/0/1/6/2/4/7/9016247a--202104231502.jpg",
+            "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/9/0/1/6/2/4/7/9016247b--202104231502.jpg",
+            "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/9/0/1/6/2/4/7/9016247c--202104231502.jpg",
+            "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/9/0/1/6/2/4/7/9016247d--202104231502.jpg",
+            "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/9/0/1/6/2/4/7/9016247e--202104231502.jpg"
+        ],
+        "coordonnees": [
+            50.636370149041,
+            3.034930229187
+        ],
+        "disponibilite": null,
+        "publication": null,
+        "detection": "14/09/2023 17:59:06"
     }
 ]
