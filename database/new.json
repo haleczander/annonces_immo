@@ -307,5 +307,36 @@
         "disponibilite": null,
         "publication": null,
         "detection": "14/09/2023 07:44:06"
+    },
+    {
+        "ville": "Lille",
+        "prix": 677,
+        "surface": 37.1,
+        "url": "https://fr.foncia.com/location/lille-59/appartement/330445045.htm",
+        "description": "au coeur du centre vlle, proche du m\u00e9tro et des commerces, bel appartement type 2 meubl\u00e9 compos\u00e9 d'une entr\u00e9e, un s\u00e9jour avec balcon, une cuisine \u00e9quip\u00e9e, une chambre, une salle de bains avec wc s\u00e9par\u00e9s. id\u00e9alement situ\u00e9 !",
+        "images": [
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00a8655f8b9ffbb307/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00ee7736d6f52757fc/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00dceef65a6423d90b/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00fd9d1ab6733cd28a/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c008bc86010e49d2f84/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00f27923a8c1da6ad6/true/640/480"
+        ],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-14T10:02:22+02:00",
+        "detection": "14/09/2023 13:29:06"
+    },
+    {
+        "ville": "La Madeleine",
+        "prix": 691,
+        "surface": 52.6,
+        "url": "https://fr.foncia.com/location/la-madeleine-59110/appartement/330957140.htm",
+        "description": "Un appartement de type 3 se situant au 1\u1d49\u02b3 \u00e9tage comprenant : entr\u00e9e, s\u00e9jour, cuisine, deux chambres, une salle de bains, des wc et une cave.",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-14T09:42:24+02:00",
+        "detection": "14/09/2023 13:29:06"
     }
 ]
