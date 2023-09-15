@@ -419,5 +419,27 @@
         "disponibilite": null,
         "publication": null,
         "detection": "15/09/2023 03:44:09"
+    },
+    {
+        "ville": "Lille",
+        "prix": 386,
+        "surface": 20.84,
+        "url": "https://www.orpi.com/annonce-location-appartement-t1-lille-59000-b-00g00y",
+        "description": "(G) LILLE RUE D'ARTOIS - 2 min du m\u00e9tro   Studio au calme de 20.84 m2, s\u00e9jour avec placards, espace cuisine s\u00e9par\u00e9e avec kitchenette \u00e9quip\u00e9e, coin nui \u2026",
+        "images": [
+            "https://static.orpi.com/images/immo-facile/estate-result-item/office6/orpi_77103/catalog/images/pr_p/2/3/4/7/0/7/0/2347070a--201911151655.jpg",
+            "https://static.orpi.com/images/immo-facile/estate-result-item/office6/orpi_77103/catalog/images/pr_p/2/3/4/7/0/7/0/2347070b--201911151655.jpg",
+            "https://static.orpi.com/images/immo-facile/estate-result-item/office6/orpi_77103/catalog/images/pr_p/2/3/4/7/0/7/0/2347070c--201911151655.jpg",
+            "https://static.orpi.com/images/immo-facile/estate-result-item/office6/orpi_77103/catalog/images/pr_p/2/3/4/7/0/7/0/2347070d--201911151655.jpg",
+            "https://static.orpi.com/images/immo-facile/estate-result-item/office6/orpi_77103/catalog/images/pr_p/2/3/4/7/0/7/0/2347070e--201911151655.jpg",
+            "https://static.orpi.com/images/immo-facile/estate-result-item/office6/orpi_77103/catalog/images/pr_p/2/3/4/7/0/7/0/2347070f--201911151655.jpg"
+        ],
+        "coordonnees": [
+            50.618836,
+            3.061084
+        ],
+        "disponibilite": null,
+        "publication": null,
+        "detection": "15/09/2023 09:29:09"
     }
 ]
