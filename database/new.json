@@ -463,5 +463,17 @@
         "disponibilite": null,
         "publication": null,
         "detection": "15/09/2023 14:44:10"
+    },
+    {
+        "ville": "LILLE",
+        "prix": "724",
+        "surface": null,
+        "url": "https://www.glv-immobilier.fr/fiches/3-32-35_9588160/appartement-t2-45-m2-vieux-lille.html?search_id=1775915508437856&offset=0&",
+        "description": "",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": null,
+        "detection": "15/09/2023 15:29:11"
     }
 ]
