@@ -39,50 +39,6 @@
         "detection": "11/09/2023 20:11:30"
     },
     {
-        "ville": "Lille",
-        "prix": 750,
-        "surface": 44,
-        "url": "https://www.orpi.com/annonce-location-appartement-t2-lille-59000-b-e2m3jy",
-        "description": "QUARTIER LA MADELEINE-LOUVIERE  A louer : au coeur du quartier La Madeleine-Louvi\u00e8re, venez d\u00e9couvrir \u00e0 LILLE (59000) cet appartement de 2 pi\u00e8ces de 4 \u2026",
-        "images": [
-            "https://static.orpi.com/images/immo-facile/estate-result-item/office6/orpi_73142/catalog/images/pr_web/1/0/6/6/3/4/2/8/10663428a--202303281411.jpg",
-            "https://static.orpi.com/images/immo-facile/estate-result-item/office6/orpi_73142/catalog/images/pr_web/1/0/6/6/3/4/2/8/10663428b--202303281411.jpg",
-            "https://static.orpi.com/images/immo-facile/estate-result-item/office6/orpi_73142/catalog/images/pr_web/1/0/6/6/3/4/2/8/10663428c--202303281411.jpg",
-            "https://static.orpi.com/images/immo-facile/estate-result-item/office6/orpi_73142/catalog/images/pr_web/1/0/6/6/3/4/2/8/10663428d--202303281411.jpg"
-        ],
-        "coordonnees": [
-            50.643954,
-            3.083099
-        ],
-        "disponibilite": null,
-        "publication": null,
-        "detection": "09/09/2023 07:53:14"
-    },
-    {
-        "ville": "",
-        "prix": "556",
-        "surface": "30",
-        "url": "https://www.nexity.fr/location/FL0784687",
-        "description": "",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": null,
-        "detection": "09/09/2023 07:38:15"
-    },
-    {
-        "ville": "",
-        "prix": "657",
-        "surface": "54",
-        "url": "https://www.nexity.fr/location/FL0781179",
-        "description": "",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": null,
-        "detection": "09/09/2023 07:38:15"
-    },
-    {
         "ville": "La Madeleine",
         "prix": 830,
         "surface": 66.8,
@@ -535,5 +491,17 @@
         "disponibilite": null,
         "publication": null,
         "detection": "16/09/2023 03:36:59"
+    },
+    {
+        "ville": "",
+        "prix": "546",
+        "surface": "24",
+        "url": "https://www.nexity.fr/location/FL0780241",
+        "description": "",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": null,
+        "detection": "16/09/2023 09:14:25"
     }
 ]
