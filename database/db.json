@@ -1932,6 +1932,18 @@
             "disponibilite": null,
             "publication": "2023-09-15T14:32:51+02:00",
             "detection": "15/09/2023 22:36:56"
+        },
+        "330957660": {
+            "ville": "Lille",
+            "prix": 838,
+            "surface": 59.1,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330957660.htm",
+            "description": "au coeur du quartier euratechnologies, un appartement de type 3 situ\u00e9 dans une r\u00e9sidence neuve s\u00e9curis\u00e9e avec cuisine \u00e9quip\u00e9e, loggia et parking priv\u00e9 entr\u00e9e, s\u00e9jour avec cuisine \u00e9quip\u00e9e, 2 chambres, sdb, wc, loggia, parking.",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-18T14:19:20+02:00",
+            "detection": "18/09/2023 19:30:42"
         }
     },
     "SERGIC": {

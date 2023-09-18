@@ -1,18 +1,6 @@
 [
     {
         "ville": "Lille",
-        "prix": 662.18,
-        "surface": 40.2,
-        "url": "https://fr.foncia.com/location/lille-59/appartement/330956364.htm",
-        "description": "dans un quartier r\u00e9sidentiel un beau t2 r\u00e9cent avec coin cuisine terrasse et parking en sous sol comprenant Entr\u00e9e, s\u00e9jour, coin cuisine, chambre, Salle de bains et wc",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": "2023-09-11T14:33:46+02:00",
-        "detection": "11/09/2023 19:26:25"
-    },
-    {
-        "ville": "Lille",
         "prix": "721",
         "surface": "46",
         "url": "https://www.sergic.com/annonces-immobilieres/location-2-pieces-46-59800-lille-07-0010-01-0008/",
@@ -515,5 +503,17 @@
         "disponibilite": null,
         "publication": null,
         "detection": "18/09/2023 18:15:42"
+    },
+    {
+        "ville": "Lille",
+        "prix": 838,
+        "surface": 59.1,
+        "url": "https://fr.foncia.com/location/lille-59/appartement/330957660.htm",
+        "description": "au coeur du quartier euratechnologies, un appartement de type 3 situ\u00e9 dans une r\u00e9sidence neuve s\u00e9curis\u00e9e avec cuisine \u00e9quip\u00e9e, loggia et parking priv\u00e9 entr\u00e9e, s\u00e9jour avec cuisine \u00e9quip\u00e9e, 2 chambres, sdb, wc, loggia, parking.",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-18T14:19:20+02:00",
+        "detection": "18/09/2023 19:30:42"
     }
 ]
