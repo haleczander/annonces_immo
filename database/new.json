@@ -1,17 +1,5 @@
 [
     {
-        "ville": "La Madeleine",
-        "prix": 830,
-        "surface": 66.8,
-        "url": "https://fr.foncia.com/location/la-madeleine-59110/appartement/330956345.htm",
-        "description": "un appartement comprenant : une entr\u00e9e, un double s\u00e9jour, une cuisine s\u00e9par\u00e9e \u00e9quip\u00e9e, une chambre, une salle de bains et des wc.",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": "2023-09-11T14:11:26+02:00",
-        "detection": "11/09/2023 21:13:50"
-    },
-    {
         "ville": "Lille",
         "prix": "\n730",
         "surface": "37.01",
