@@ -1,18 +1,6 @@
 [
     {
         "ville": "LILLE",
-        "prix": "720",
-        "surface": null,
-        "url": "https://www.glv-immobilier.fr/fiches/3-32-36_11905757/appartement-t3-55-m2-lille.html?search_id=1775915508437856&offset=1&",
-        "description": "",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": null,
-        "detection": "12/09/2023 15:14:39"
-    },
-    {
-        "ville": "LILLE",
         "prix": "517",
         "surface": null,
         "url": "https://www.glv-immobilier.fr/fiches/3-32-34_45563460/appartement-t1-lille-nationale.html?search_id=1775915508437856&offset=1&",
