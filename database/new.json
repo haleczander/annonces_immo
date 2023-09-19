@@ -400,5 +400,47 @@
         "disponibilite": null,
         "publication": null,
         "detection": "19/09/2023 18:15:43"
+    },
+    {
+        "ville": "Lille",
+        "prix": 749.59,
+        "surface": 63,
+        "url": "https://fr.foncia.com/location/lille-59/appartement/330943726.htm",
+        "description": "Secteur CHR B Calmette, en r\u00e9sidence neuve et de standing, lumineux type 3 avec balcon et une place de parking comprenant: s\u00e9jour, cuisine, deux chambres, une salle de bain et un wc.",
+        "images": [
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00814a2cb73fd6503f/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00907605ea335465f3/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00c972ccec6e3bcc04/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00b7840b0667d685ee/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c0074f58c3d9e3e02b5/true/640/480"
+        ],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-19T15:09:33+02:00",
+        "detection": "19/09/2023 19:30:43"
+    },
+    {
+        "ville": "Lille",
+        "prix": 655,
+        "surface": 60,
+        "url": "https://fr.foncia.com/location/lille-59/appartement/330955221.htm",
+        "description": "R\u00e9sidence de standing avec gardien, espaces verts dans un secteur agr\u00e9able, \u00e0 proxiimit\u00e9 des commerces et des transports. Entr\u00e9e, cuisine, s\u00e9jour, salle de bains, W.C., deux chambres, d\u00e9gagement, placard terrasse et jardin, parking",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-19T14:49:29+02:00",
+        "detection": "19/09/2023 19:30:43"
+    },
+    {
+        "ville": "Lille",
+        "prix": 521.73,
+        "surface": 30.5,
+        "url": "https://fr.foncia.com/location/lille-59/appartement/330953585.htm",
+        "description": "un studio situ\u00e9 au 1 er etage comprenant entr\u00e9e une pi\u00e9ce principal avec coin cuisine \u00e9quip\u00e9e salle de bains et wc",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-19T14:47:29+02:00",
+        "detection": "19/09/2023 19:30:43"
     }
 ]
