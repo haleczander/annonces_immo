@@ -428,5 +428,17 @@
         "disponibilite": null,
         "publication": "2023-09-18T14:19:20+02:00",
         "detection": "18/09/2023 19:30:42"
+    },
+    {
+        "ville": "",
+        "prix": "482",
+        "surface": "37",
+        "url": "https://www.nexity.fr/location/FL0784833",
+        "description": "",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": null,
+        "detection": "19/09/2023 07:45:43"
     }
 ]
