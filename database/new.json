@@ -529,5 +529,22 @@
         "disponibilite": null,
         "publication": "2023-09-20T11:31:40+02:00",
         "detection": "20/09/2023 19:15:46"
+    },
+    {
+        "ville": "Lille",
+        "prix": "630",
+        "surface": "44",
+        "url": "https://www.sergic.com/annonces-immobilieres/location-2-pieces-44-59000-lille-07-1170-01-2011/",
+        "description": "\nLille Fives, en hyper-centre dans une r\u00e9sidence s\u00e9curis\u00e9e. Nous vous proposons cet appartement enti\u00e8rement r\u00e9nov\u00e9, comprenant une entr\u00e9e avec rangements, des WC s\u00e9par\u00e9s, ensuite une belle pi\u00e8ce de vie lumineuse avec coin cuisine meubl\u00e9e, une belle chambre parquet\u00e9e avec volets roulants, et une salle de bains. Chauffage \u00e9lectrique individuel. Parking obligatoire \u00e0 40.00 euros mensuels. Disponible de suite ! Les informations sur les risques auxquels ce bien est expos\u00e9 sont disponibles sur le site G\u00e9orisque : https://www.georisques.gouv.fr\n",
+        "images": [
+            "/wp-content/themes/sergic/assets/assets_custom/listing-biens/default.png"
+        ],
+        "coordonnees": [
+            "50.6322459",
+            "3.0876046"
+        ],
+        "disponibilite": "20230918",
+        "publication": null,
+        "detection": "20/09/2023 20:15:51"
     }
 ]
