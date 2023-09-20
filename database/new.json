@@ -504,5 +504,42 @@
         "disponibilite": "20231001",
         "publication": null,
         "detection": "20/09/2023 18:15:51"
+    },
+    {
+        "ville": "Lille",
+        "prix": 740,
+        "surface": 70.9,
+        "url": "https://fr.foncia.com/location/lille-59/appartement/330958440.htm",
+        "description": "dans petit immeuble, t2bis en duplex comprenant au 1\u1d49\u02b3 etage : entr\u00e9e, s\u00e9jour donnant sur terrasse, cuisine \u00e9quip\u00e9e au 2\u1d49 etage : 1 chambre, un bureau, salle de bains et wc.",
+        "images": [
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00467aac17e291d783/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00f7a642be2481d766/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00df9fad2cc056fbae/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00cd18a737780856eb/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00980b3d8fdc0a9fe9/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c009677de49ad510db9/true/640/480"
+        ],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-20T12:01:23+02:00",
+        "detection": "20/09/2023 19:15:46"
+    },
+    {
+        "ville": "Lomme",
+        "prix": 750,
+        "surface": 49.3,
+        "url": "https://fr.foncia.com/location/lomme-59160/appartement/330958417.htm",
+        "description": "Appartement type 3, r\u00e9nov\u00e9 int\u00e9gralement. Comprenant une entr\u00e9e, un s\u00e9jour lumineux avec acc\u00e8s balcon, deux chambres, une salle de douche, une cuisine \u00e9quip\u00e9e avec un espace buanderie, wc s\u00e9par\u00e9. 3 e \u00e9tage sans acsenseur. Avec le logement, deux caves, un garage et un jardin privatif. Face au m\u00e9tro Maison des Enfants. Proche des commerces, secteur calme.Charges individuelles \u00e9lectriques.",
+        "images": [
+            "https://storage.fonciamillenium.net/thumbnail/650ab621b9043669f419037a/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/650ab627cd7a0ed7a0e2d3fb/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/650ab62acd7a0ed7a0e2d5ea/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/650ab62eb9043669f4190b19/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/650ab634cd7a0ed7a0e2da28/true/640/480"
+        ],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-20T11:31:40+02:00",
+        "detection": "20/09/2023 19:15:46"
     }
 ]
