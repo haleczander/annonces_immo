@@ -1,29 +1,5 @@
 [
     {
-        "ville": "",
-        "prix": "525",
-        "surface": "22",
-        "url": "https://www.nexity.fr/location/FL0785342",
-        "description": "",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": null,
-        "detection": "13/09/2023 18:04:22"
-    },
-    {
-        "ville": "",
-        "prix": "650",
-        "surface": "38",
-        "url": "https://www.nexity.fr/location/FL0785408",
-        "description": "",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": null,
-        "detection": "13/09/2023 18:04:22"
-    },
-    {
         "ville": "Lille",
         "prix": 490,
         "surface": 30.9,
@@ -472,5 +448,61 @@
         "disponibilite": "20230929",
         "publication": null,
         "detection": "20/09/2023 14:15:51"
+    },
+    {
+        "ville": "Lille",
+        "prix": "\n660",
+        "surface": "46.38",
+        "url": "https://www.citya.com/annonces/location/appartement/lille-59350/GES43870036-797",
+        "description": "LILLE VAUBAN - Quartier Port de Lille, dans une r\u00e9sidence s\u00e9curis\u00e9e  au pied du m\u00e9tro, appartement offrant : une [...]\n                            entr\u00e9e, un s\u00e9jour lumineux, une cuisine s\u00e9par\u00e9e,  une chambre et une salle de bains. Une cave.  Le bien est soumis au statut de la copropri\u00e9t\u00e9. \n\n Loyer de 660,00 euros par mois charges comprises dont 100,00 euros par mois de provision pour charges (soumis \u00e0 la r\u00e9gularisation annuelle). \n Soit avec Assurance Habitation et Assistance* ( 16.00 euros ) : 676,00 euros. \n Les honoraires charge locataire sont de 602,94 euros ( soit 13,00 euros/m\u00b2 ) dont 139,14 euros pour \u00e9tat des lieux ( soit 3,00 euros/m\u00b2 ). \n Vous pouvez consulter les bar\u00e8mes d'honoraires \u00e0 l'adresse suivante : \n https://www.citya.com/agences-immobilieres/lille-59350/178#bareme-location \nMontant estim\u00e9 des d\u00e9penses annuelles d'\u00e9nergie pour un usage standard : entre 670 et 940 euros. Prix moyens des \u00e9nergies index\u00e9s en 2021. Zone soumise \u00e0 encadrement des loyers. Le loyer de base du bien propos\u00e9 est de 560 euros, le loyer de r\u00e9f\u00e9rence major\u00e9 (fix\u00e9 par arr\u00eat\u00e9 pr\u00e9fectoral) est de 746,718 eurosLes informations sur les risques auxquels ce bien est expos\u00e9 sont disponibles sur le site G\u00e9orisques : https://www.georisques.gouv.fr.  *Service facultatif. Contribution annuelle \"attentats\" non comprise. Voir conditions en agence. \n ",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": null,
+        "detection": "20/09/2023 18:15:46"
+    },
+    {
+        "ville": "Lille",
+        "prix": "672",
+        "surface": "40",
+        "url": "https://www.sergic.com/annonces-immobilieres/location-2-pieces-40-59800-lille-07-0353-02-0070/",
+        "description": "\nSECTEUR VIEUX LILLE proche de l\u2019IAE, \u00e0 proximit\u00e9 des bus et des axes routiers, nous vous proposons ce beau type 2 dans une r\u00e9sidence standing et s\u00e9curis\u00e9e. Cet appartement pr\u00e9sente un beau s\u00e9jour lumineux donnant acc\u00e8s au balcon, une cuisine s\u00e9par\u00e9e, une chambre et une salle de bain. Un garage compl\u00e8te ce bien. Le chauffage est \u00e9lectrique individuel. Les informations sur les risques auxquels ce bien est expos\u00e9 sont disponibles sur le site G\u00e9orisque : https://www.georisques.gouv.fr\n",
+        "images": [
+            "/wp-content/themes/sergic/assets/assets_custom/listing-biens/default.png"
+        ],
+        "coordonnees": [
+            "50.6430960713",
+            "3.063160804"
+        ],
+        "disponibilite": "20230930",
+        "publication": null,
+        "detection": "20/09/2023 18:15:51"
+    },
+    {
+        "ville": "Lille",
+        "prix": "787",
+        "surface": "46",
+        "url": "https://www.sergic.com/annonces-immobilieres/location-2-pieces-46-59800-lille-07-0620-02-0136/",
+        "description": "\nLille \u2013 Secteur Saint Maurice \u00e0 proximit\u00e9 imm\u00e9diate du m\u00e9tro, des axes autoroutiers et des commerces. Nous vous proposons ce beau meubl\u00e9 situ\u00e9 au 5\u00e8me et dernier \u00e9tage avec ascenseur dans une r\u00e9sidence arbor\u00e9e et s\u00e9curis\u00e9e avec concierge. Il vous offre un hall d\u2019entr\u00e9e, un s\u00e9jour parquet\u00e9 avec des placards, une cuisine enti\u00e8rement \u00e9quip\u00e9e (r\u00e9frig\u00e9rateur, plaque de cuisson, hotte, four, lave vaisselle et de nombreux rangements), une chambre avec un grand dressing, une salle de bain avec une baignoire et une machine \u00e0 laver, des WC s\u00e9par\u00e9s. Possibilit\u00e9 de se stationner dans la r\u00e9sidence. Le chauffage est individuel \u00e9lectrique. Les informations sur les risques auxquels ce bien est expos\u00e9 sont disponibles sur le site G\u00e9orisque : https://www.georisques.gouv.fr\n",
+        "images": [
+            "https://www.sergic.com/wp-content/uploads/2023/09/d67da27978986065dbe825a19eb042de.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/d35f52581847ca6570625d83ac787043.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/fd48a37191f24d14e5fdf08b1f9d2c73.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/6652ee1e7cc8d4efbff53b850195ba43.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/0a24fa07f3f1d6d52b4ae8ed58088e00.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/8d160fe5ba68e9b63ed2ac2138da5d75.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/85c5d195bc0dc508ac05f1c75b8f6a65.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/9379beec36cae9bc3216fc566485f445.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/f1f62ae8e9489590ac23dfa638c3ce21.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/2aed59a6b6742cacdba26614bb332384.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/d8dce22d4b8f119ac448688fb6517f06.jpg"
+        ],
+        "coordonnees": [
+            "50.6422598452",
+            "3.0908770561"
+        ],
+        "disponibilite": "20231001",
+        "publication": null,
+        "detection": "20/09/2023 18:15:51"
     }
 ]
