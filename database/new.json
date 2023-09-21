@@ -1,29 +1,5 @@
 [
     {
-        "ville": "",
-        "prix": "609",
-        "surface": "26",
-        "url": "https://www.nexity.fr/location/FL0785537",
-        "description": "",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": null,
-        "detection": "14/09/2023 07:44:06"
-    },
-    {
-        "ville": "",
-        "prix": "798",
-        "surface": "66",
-        "url": "https://www.nexity.fr/location/FL0784735",
-        "description": "",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": null,
-        "detection": "14/09/2023 07:44:06"
-    },
-    {
         "ville": "Lille",
         "prix": 677,
         "surface": 37.1,
@@ -546,5 +522,17 @@
         "disponibilite": null,
         "publication": null,
         "detection": "21/09/2023 03:30:50"
+    },
+    {
+        "ville": "",
+        "prix": "638",
+        "surface": "44",
+        "url": "https://www.nexity.fr/location/FL0786064",
+        "description": "",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": null,
+        "detection": "21/09/2023 07:45:50"
     }
 ]
