@@ -2125,6 +2125,36 @@
             "disponibilite": null,
             "publication": "2023-09-20T11:31:40+02:00",
             "detection": "20/09/2023 19:15:46"
+        },
+        "330957596": {
+            "ville": "Lille",
+            "prix": 538.85,
+            "surface": 31.1,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330957596.htm",
+            "description": "appartement de type 1 comprenant s\u00e9jour, cusine, salle de bains, toilettes",
+            "images": [
+                "https://storage.fonciamillenium.net/thumbnail/63e82c00477c6a6a747d16b9/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c00da76c2ebb8bfc4de/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c00801a03074a9be10d/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c0021d30e8c1b50b3f8/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c0046335ec20665f5b1/true/640/480"
+            ],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-21T12:08:06+02:00",
+            "detection": "21/09/2023 19:15:50"
+        },
+        "330958689": {
+            "ville": "Lille",
+            "prix": 779,
+            "surface": 61.2,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330958689.htm",
+            "description": "RESIDENCE AVEC ASCENSEUR ET CONCIERGE BALCON ET RANGEMENT PARKING SOUS SOL entr\u00e9e, s\u00e9jour, cuisine, deux chambres, salle de bains, wc, parking.",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-21T11:16:28+02:00",
+            "detection": "21/09/2023 19:15:50"
         }
     },
     "SERGIC": {
