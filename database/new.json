@@ -534,5 +534,17 @@
         "disponibilite": null,
         "publication": null,
         "detection": "21/09/2023 07:45:50"
+    },
+    {
+        "ville": "Lille Sebastopol",
+        "prix": "768",
+        "surface": "65",
+        "url": "https://www.lille-immo.fr/location/lille/t2/annonce-immobiliere-LG8307",
+        "description": "\n\nBeau T2 de 68m2 non meubl\u00e9 situ\u00e9 rue Henri Kolb\nBeau T2 non meubl\u00e9 de 65,84m2 situ\u00e9 au 38 rue Henri Kolb proche de la place de la R\u00e9publique. Ce bien comprend un s\u00e9jour parquet\u00e9, une cuisine s\u00e9par\u00e9e (plaques, frigo-cong\u00e9lateur, arriv\u00e9e d'eau, rangements ), une salle de bain...\n\n",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": null,
+        "detection": "21/09/2023 10:30:50"
     }
 ]
