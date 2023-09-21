@@ -1,30 +1,6 @@
 [
     {
         "ville": "Lille",
-        "prix": 656,
-        "surface": 49.2,
-        "url": "https://fr.foncia.com/location/lille-59/appartement/330957309.htm",
-        "description": "\u00e0 proximit\u00e9 des commerces et des transports, r\u00e9sidence neuve, t2 donnant sur cour int\u00e9rieure au calme, parking",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": "2023-09-14T14:33:49+02:00",
-        "detection": "14/09/2023 19:29:06"
-    },
-    {
-        "ville": "Lille",
-        "prix": 478,
-        "surface": 33.5,
-        "url": "https://fr.foncia.com/location/lille-59/appartement/330957182.htm",
-        "description": "un appartement comprenant : entr\u00e9e, s\u00e9jour avec kitchenette, coin nuit en mezzanine, une salle de bains avec baignoire et des wc.",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": "2023-09-14T12:28:30+02:00",
-        "detection": "14/09/2023 19:29:06"
-    },
-    {
-        "ville": "Lille",
         "prix": "813",
         "surface": "49",
         "url": "https://www.vacherand.fr/immobilier/location-appartement-lille/ref-AS01017221",
