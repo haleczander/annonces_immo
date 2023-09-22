@@ -3700,6 +3700,18 @@
             "disponibilite": null,
             "publication": null,
             "detection": "21/09/2023 07:45:50"
+        },
+        "FL0785180": {
+            "ville": "",
+            "prix": "414",
+            "surface": "24",
+            "url": "https://www.nexity.fr/location/FL0785180",
+            "description": "",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "22/09/2023 07:45:54"
         }
     },
     "GLV": {
