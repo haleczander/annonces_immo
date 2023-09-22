@@ -2203,6 +2203,25 @@
             "disponibilite": null,
             "publication": "2023-09-21T11:16:28+02:00",
             "detection": "21/09/2023 19:15:50"
+        },
+        "330445049": {
+            "ville": "Lille",
+            "prix": 474.45,
+            "surface": 32.7,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330445049.htm",
+            "description": "Secteur attrayant proche des facult\u00e9s de medecine et pharmacie, r\u00e9sidence s\u00e9curis\u00e9e avec balcon et parking.",
+            "images": [
+                "https://storage.fonciamillenium.net/thumbnail/63e82c00378581d53ae22bd9/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c00cf8148711083dcc2/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c0031f06c628381b2c9/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c00d55a6d16baedb7d6/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c0054d39d48cd8746b4/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c007ccfebbd5bd96be8/true/640/480"
+            ],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-21T17:42:02+02:00",
+            "detection": "22/09/2023 10:30:54"
         }
     },
     "SERGIC": {
