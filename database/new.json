@@ -1,27 +1,5 @@
 [
     {
-        "ville": "Lille",
-        "prix": 741,
-        "surface": 45.05,
-        "url": "https://www.orpi.com/annonce-location-appartement-t2-lille-59000-b-e11fab",
-        "description": "(GA) LILLE Cormontaigne - rue Camille Desmoulins A louer: Appartement lumineux en r\u00e9sidence s\u00e9curis\u00e9e et \u00e0 proximit\u00e9 de la station de M\u00e9tro CORMONTAIG \u2026",
-        "images": [
-            "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/5/1/5/3/3/4/4/5153344a--201905272323.jpg",
-            "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/5/1/5/3/3/4/4/5153344b--201905272323.jpg",
-            "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/5/1/5/3/3/4/4/5153344c--201905272323.jpg",
-            "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/5/1/5/3/3/4/4/5153344d--201905272323.jpg",
-            "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/5/1/5/3/3/4/4/5153344e--201905272323.jpg",
-            "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_p/5/1/5/3/3/4/4/5153344f--201905272323.jpg"
-        ],
-        "coordonnees": [
-            50.623752,
-            3.036061
-        ],
-        "disponibilite": null,
-        "publication": null,
-        "detection": "15/09/2023 14:44:10"
-    },
-    {
         "ville": "LILLE",
         "prix": "724",
         "surface": null,
