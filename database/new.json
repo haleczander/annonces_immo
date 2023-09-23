@@ -1,17 +1,5 @@
 [
     {
-        "ville": "Lille",
-        "prix": "700",
-        "surface": "53",
-        "url": "https://www.vacherand.fr/immobilier/location-appartement-lille/ref-AQ01021701",
-        "description": "Votre agence Vacherand immobilier vous propose \u00e0 la location ce bel appartement neuf de 52,51m2, situ\u00e9 en rez de chauss\u00e9e d'une grande r\u00e9sidence...",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": null,
-        "detection": "16/09/2023 03:36:59"
-    },
-    {
         "ville": "",
         "prix": "546",
         "surface": "24",
