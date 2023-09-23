@@ -543,3 +543,45 @@ class CavroisAnnonces(Annonces):
             formatted_response.update(annonce_obj.dict())
         return formatted_response
         
+class DefranceImmoAnnonces(Annonces):
+    def __init__(self, villes: list[str], prix: int, surface: int) -> None:
+        super().__init__("Defrance Immo", villes, prix, surface)
+        
+    def query_url(self) -> str:
+        return "http://www.defranceimmo.fr/location-appartement-maison-parking-commerce-metropole-lille.html"
+    
+    def request_body(self) -> dict:
+        bod = {
+            "Categorie[Appartement]": "1",
+            "Ville[La+madeleine]": "1",
+            "Ville[Lille]": "1",
+            "Prix[min]": "0",
+            "Prix[max]": f"{self.prix}",
+            "recherche": "1"
+        }
+        return bod
+    
+    def get_raw_response(self) -> dict:
+        page_resp = requests.post(self.query_url(), data=self.request_body()).text
+        soup = self.html_to_soup(page_resp)
+        annonces = soup.select(".bien")
+        return annonces
+    
+    def format_raw_response(self, raw_response: dict) -> dict:
+        formatted_response = {}
+        for annonce in raw_response:
+            link = annonce.select_one("a").get("href")
+            ref = annonce.select_one(".ref").text.split(" : ")[-1]
+            prix = annonce.select_one(".big").text.replace("€", "")
+            annonce_obj = Annonce(
+                reference=ref,
+                ville=None,
+                prix=prix,
+                surface=None,
+                url=f'https://www.defranceimmo.fr/{link}',
+                description=None,
+                images=[],
+            )
+            formatted_response.update(annonce_obj.dict())
+        return formatted_response
+    
