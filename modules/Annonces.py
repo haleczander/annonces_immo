@@ -625,8 +625,15 @@ class FaelensAnnonces(Annonces):
     def __init__(self, villes: list[str], prix: int, surface: int) -> None:
         super().__init__("Faelens", villes, prix, surface)
         
+    def budget(self):
+        if self.prix < 500 : return 6
+        if self.prix < 850 : return 7
+        if self.prix < 1000 : return 8
+        return 9
+        
+        
     def query_url(self) -> str:
-        return "https://www.faelensimmobilier.com/site/produits.php?tri=&transac=Location&type=Appartement&budget_v=5&budget_l=9"
+        return f"https://www.faelensimmobilier.com/site/produits.php?tri=&transac=Location&type=Appartement&budget_v=5&budget_l={self.budget()}"
     
     def get_raw_response(self) -> dict:
         page_resp = requests.get(self.query_url()).text
@@ -640,6 +647,7 @@ class FaelensAnnonces(Annonces):
             link = annonce.select_one("a").get("href")
             ref = annonce.select_one(".ref").text.split(" ")[-1]
             prix = annonce.select_one(".prix").select_one(".bold").text.replace("€", "").replace(" ", "")
+            if int(prix) > self.prix : continue
             ville = annonce.select_one(".type").select_one(".semibold").text
             annonce_obj = Annonce(
                 reference=ref,
@@ -647,6 +655,41 @@ class FaelensAnnonces(Annonces):
                 prix=prix,
                 surface=None,
                 url=f'https://www.faelensimmobilier.com/site/{link}',
+                description=None,
+                images=[],
+            )
+            formatted_response.update(annonce_obj.dict())
+        return formatted_response
+    
+class CImmoAnnonces(Annonces):
+    def __init__(self, villes: list[str], prix: int, surface: int) -> None:
+        super().__init__("C Immo", villes, prix, surface)
+        
+    def query_url(self) -> str:
+        return f"https://www.cimmobilier.fr/locations.php?Ville=LILLE&Categorie=Appartement&Type=&PrixMini=&PrixMaxi={self.prix}"
+    
+    def get_raw_response(self) -> dict:
+        page_resp = requests.get(self.query_url()).text
+        soup = self.html_to_soup(page_resp)
+        annonces = soup.select(".masonry-item")
+        return annonces
+    
+    def format_raw_response(self, raw_response: dict) -> dict:
+        formatted_response = {}
+        for annonce in raw_response:
+            print(annonce.get("onclick"))
+            exit()
+            link = annonce.select_one("a").get("href")
+            ref = annonce.select_one(".ref").text.split(" ")[-1]
+            prix = annonce.select_one(".price").text.replace("€", "").replace(" ", "")
+            if int(prix) > self.prix : continue
+            ville = annonce.select_one(".city").text
+            annonce_obj = Annonce(
+                reference=ref,
+                ville=ville,
+                prix=prix,
+                surface=None,
+                url=f'https://www.cimmobilier.fr/{link}',
                 description=None,
                 images=[],
             )

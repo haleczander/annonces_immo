@@ -89,6 +89,7 @@ if __name__ == "__main__":
         "CAVROIS": CavroisAnnonces,
         "DEFRANCE IMMO": DefranceImmoAnnonces,
         "SEIZE": SeizeAnnonces,
+        "FAELENS": FaelensAnnonces,
         }
     loop = 0
     start = time.time()
