@@ -530,7 +530,7 @@ class CavroisAnnonces(Annonces):
                 continue
             link = annonce.select("a")[1].get("href")[2:]
             ref = annonce.select_one(".products-ref").text.split(" : ")[-1].strip()
-            prix = annonce.select_one(".products-price").text.split(" ")[1]
+            prix = annonce.select_one(".products-price").text.split(" ")[1].split("\xa0\x80")[0]
             annonce_obj = Annonce(
                 reference=ref,
                 ville=None,
