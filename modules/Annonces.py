@@ -699,8 +699,48 @@ class ChoquetAnnonces(Annonces):
     def __init__(self, villes: list[str], prix: int, surface: int) -> None:
         super().__init__("Cabinet Choquet", villes, prix, surface)
         
-    def query_url(self, page) -> str:
-        return f"https://www.cabinet-choquet.com/locations.php?Categorie=Toutes&OrderBy=2&Mode=2&LimitDebut={page*15}"
+    def query_url(self, offset) -> str:
+        return f"https://www.cabinet-choquet.com/locations.php?Categorie=Toutes&OrderBy=2&Mode=2&LimitDebut={offset}"
     
     def get_raw_response(self) -> dict:
-        return super().get_raw_response()
+        annonces = []
+        while 1:
+            page_resp = requests.get(self.query_url(len(annonces))).text
+            soup = self.html_to_soup(page_resp)
+            page_annonces = soup.select(".product-thumb")
+            if not page_annonces : break
+            annonces += page_annonces
+        return annonces
+    
+    def format_raw_response(self, raw_response: dict) -> dict:
+        formatted_response = {}
+        for annonce in raw_response:
+            if annonce.find("span", class_="product-label") : 
+                continue
+            ville = annonce.select_one(".product-title").text
+            if ville.lower() not in [ville.lower() for ville in self.villes] : 
+                continue
+            description = annonce.select_one(".product-desciption").text
+            if self.is_redibitoire(description) : 
+                print(description)
+                continue
+            if "Loué" in description :
+                continue            
+            link = annonce.get("onclick").split("'")[1]
+            ref = annonce.select_one(".product-category").text.split(" : ")[-1]
+            prix_div = annonce.select_one(".product-price").text
+            hc = "".join(c for c in prix_div.split("+")[0] if c.isdigit())
+            c = "".join(c for c in prix_div.split("+")[1] if c.isdigit())
+            prix = hc + c
+            if int(prix) > self.prix : continue
+            annonce_obj = Annonce(
+                reference=ref,
+                ville=ville,
+                prix=prix,
+                surface=None,
+                url=f'https://www.cabinet-choquet.com/{link}',
+                description=description,
+                images=[],
+            )
+            formatted_response.update(annonce_obj.dict())
+        return formatted_response
