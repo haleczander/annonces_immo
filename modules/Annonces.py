@@ -694,3 +694,13 @@ class CImmoAnnonces(Annonces):
             formatted_response.update(annonce_obj.dict())
         return formatted_response
             
+            
+class ChoquetAnnonces(Annonces):
+    def __init__(self, villes: list[str], prix: int, surface: int) -> None:
+        super().__init__("Cabinet Choquet", villes, prix, surface)
+        
+    def query_url(self, page) -> str:
+        return f"https://www.cabinet-choquet.com/locations.php?Categorie=Toutes&OrderBy=2&Mode=2&LimitDebut={page*15}"
+    
+    def get_raw_response(self) -> dict:
+        return super().get_raw_response()

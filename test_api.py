@@ -30,7 +30,7 @@ def get_requests_responses(requests):
 
 if __name__ == "__main__":  
     
-    target_url = "https://www.citya.com/annonces/location/lille-59350,la-madeleine-59110?sort=b.dateMandat&direction=desc&prixMax=850&surfaceMin=20"
+    target_url = "https://www.cabinet-choquet.com/locations.php?Categorie=Toutes&OrderBy=2&Mode=2"
     driver  = webdriver.Firefox(seleniumwire_options={'disable_encoding': True})
     driver.get(target_url)
     urls = get_requests_urls(driver.requests)
