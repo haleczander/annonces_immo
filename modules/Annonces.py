@@ -585,3 +585,39 @@ class DefranceImmoAnnonces(Annonces):
             formatted_response.update(annonce_obj.dict())
         return formatted_response
     
+    
+class SeizeAnnonces(Annonces):
+    def __init__(self: str, villes: list[str], prix: int, surface: int) -> None:
+        super().__init__("Seize Immo", villes, prix, surface)
+        
+    def query_url(self) -> str:
+        return f"https://www.seize-immobilier.com/catalog/advanced_search_result.php?action=update_search&search_id=1777818247876088&C_28_search=EGAL&C_28_type=UNIQUE&C_28=Location&C_28_tmp=Location&C_65_search=CONTIENT&C_65_type=TEXT&C_65=59110+LA-MADELEINE%2CLILLE&C_65_tmp=59110+LA-MADELEINE&C_65_tmp=LILLE&C_27_search=EGAL&C_27_type=TEXT&C_27=1&C_27_tmp=1&C_34_MIN=20&C_34_search=COMPRIS&C_34_type=NUMBER&C_30_MAX=1500&keywords=&C_34_MAX=&C_30_MIN=&C_30_search=COMPRIS&C_30_type=NUMBER&C_36_MIN=&C_36_search=COMPRIS&C_36_type=NUMBER&C_36_MAX="
+    
+    def get_raw_response(self) -> dict:
+        page_resp = requests.get(self.query_url()).text
+        soup = self.html_to_soup(page_resp)
+        annonces = soup.select(".link-product")
+        return annonces
+    
+    def format_raw_response(self, raw_response: dict) -> dict:
+        formatted_response = {}
+        for annonce in raw_response:
+            link = annonce.select("a")[1].get("href")[2:]
+            prix = "".join(annonce.select_one(".product-price").text.split(" ")[1:-2])
+            ville = annonce.select_one(".product-name").text.split(',')[-1].strip()
+            infos = annonce.select_one(".product-short-infos").find_all('span')
+            print(infos)
+            surface = infos[1].select_one('.data-list__item--value').text
+            ref = infos[2].select_one('.data-list__item--value').text            
+            surface = None
+            annonce_obj = Annonce(
+                reference=ref,
+                ville=ville,
+                prix=prix,
+                surface=surface,
+                url=f'https://www.seize-immobilier.com/{link}',
+                description=None,
+                images=[],
+            )
+            formatted_response.update(annonce_obj.dict())
+        return formatted_response
