@@ -86,6 +86,7 @@ if __name__ == "__main__":
         "ORPI": OrpiAnnonces,
         "NEXITY": NexityAnnonces,
         "GLV": GLVAnnonces,
+        "CAVROIS": CavroisAnnonces,
         }
     loop = 0
     start = time.time()

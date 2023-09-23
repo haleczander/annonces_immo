@@ -509,3 +509,37 @@ class GLVAnnonces(Annonces):
             formatted_response.update(annonce_obj.dict())
         return formatted_response
         
+class CavroisAnnonces(Annonces):
+    def __init__(self, villes: list[str], prix: int, surface: int) -> None:
+        super().__init__('Cavrois', villes, prix, surface)
+        
+    def query_url(self) -> str:
+        return "https://www.cavrois-immobilier.fr/catalog/advanced_search_result.php?action=update_search&search_id=&map_polygone=&C_28_search=EGAL&C_28_type=UNIQUE&C_28=Location&C_28_tmp=Location&C_27_search=EGAL&C_27_type=TEXT&C_27=1&C_27_tmp=1&C_34_MIN=20&C_34_search=COMPRIS&C_34_type=NUMBER&C_30_search=COMPRIS&C_30_type=NUMBER&C_30_MAX=850&C_65_search=CONTIENT&C_65_type=TEXT&C_65=59800%20LILLE%2C59000%20LILLE&C_65_tmp=59000%20LILLE&keywords=&C_30_MIN=&C_33_search=COMPRIS&C_33_type=NUMBER&C_33_MIN=&C_33_MAX=&C_34_MAX=&C_36_MIN=&C_36_search=COMPRIS&C_36_type=NUMBER&C_36_MAX=&C_38_MAX=&C_38_MIN=&C_38_search=COMPRIS&C_38_type=NUMBER&C_47_type=NUMBER&C_47_search=COMPRIS&C_47_MIN=&C_94_type=FLAG&C_94_search=EGAL&C_94=&page=1&search_id=1777816358652914&sort=0"
+    
+    def get_raw_response(self) -> dict:
+        page_resp = requests.get(self.query_url()).text
+        soup = self.html_to_soup(page_resp)
+        annonces = soup.select(".item-product")
+        return annonces
+    
+    def format_raw_response(self, raw_response: dict) -> dict:
+        formatted_response = {}
+        for annonce in raw_response:
+            description = annonce.select_one(".products-desc").text
+            if self.is_redibitoire(description):
+                continue
+            link = annonce.select("a")[1].get("href")[2:]
+            ref = annonce.select_one(".products-ref").text.split(" : ")[-1].strip()
+            prix = annonce.select_one(".products-price").text.split(" ")[1]
+            annonce_obj = Annonce(
+                reference=ref,
+                ville=None,
+                prix=prix,
+                surface=None,
+                url=f'https://www.cavrois-immobilier.fr{link}',
+                description=description,
+                images=[],
+            )
+            formatted_response.update(annonce_obj.dict())
+        return formatted_response
+        
