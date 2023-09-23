@@ -506,5 +506,29 @@
         "disponibilite": null,
         "publication": null,
         "detection": "23/09/2023 11:50:20"
+    },
+    {
+        "ville": "LILLE",
+        "prix": 706,
+        "surface": null,
+        "url": "https://www.cabinet-choquet.com/detail_annonce.php?IdBien=10389&Mode=2",
+        "description": "LILLE - LISIERE CENTRE - ENTRE RUE SOLFERINO & RUE JEANNE D'ARC - PROX PARC J.B LEBAS & GARE SAINT SAUVEUR - COMMERCES - FACILITES GRANDS AXES - F2 RENOVE EN DUPEX AVEC PARKING - Disponible de suite",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": null,
+        "detection": "23/09/2023 12:28:49"
+    },
+    {
+        "ville": "LILLE",
+        "prix": 734,
+        "surface": null,
+        "url": "https://www.cabinet-choquet.com/detail_annonce.php?IdBien=343&Mode=2",
+        "description": "LILLE - VIEUX LILLE - PROX AVENUE DU PEUPLE BELGE & RUE SAINT SEBASTIEN - BUS - STATION V'LILLE - F2 AVEC PARKING - Disponible \u00c3\u00a0 partir du 18 septembre",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": null,
+        "detection": "23/09/2023 12:28:49"
     }
 ]

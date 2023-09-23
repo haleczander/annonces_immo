@@ -722,7 +722,6 @@ class ChoquetAnnonces(Annonces):
                 continue
             description = annonce.select_one(".product-desciption").text
             if self.is_redibitoire(description) : 
-                print(description)
                 continue
             if "Loué" in description :
                 continue            
@@ -731,8 +730,9 @@ class ChoquetAnnonces(Annonces):
             prix_div = annonce.select_one(".product-price").text
             hc = "".join(c for c in prix_div.split("+")[0] if c.isdigit())
             c = "".join(c for c in prix_div.split("+")[1] if c.isdigit())
-            prix = hc + c
-            if int(prix) > self.prix : continue
+            prix = int(hc) + int(c)
+            if int(prix) > self.prix or prix < 300:
+                continue
             annonce_obj = Annonce(
                 reference=ref,
                 ville=ville,
