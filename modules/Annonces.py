@@ -677,20 +677,18 @@ class CImmoAnnonces(Annonces):
     def format_raw_response(self, raw_response: dict) -> dict:
         formatted_response = {}
         for annonce in raw_response:
-            print(annonce.get("onclick"))
-            exit()
+            description = annonce.select_one(".overlay-content").text
             link = annonce.select_one("a").get("href")
-            ref = annonce.select_one(".ref").text.split(" ")[-1]
-            prix = annonce.select_one(".price").text.replace("€", "").replace(" ", "")
-            if int(prix) > self.prix : continue
-            ville = annonce.select_one(".city").text
+            ref = link.split(".")[-2].split('-ref')[-1]
+            prix = link.split("-")[-2].replace('E',"")
+            ville = None
             annonce_obj = Annonce(
                 reference=ref,
                 ville=ville,
                 prix=prix,
                 surface=None,
                 url=f'https://www.cimmobilier.fr/{link}',
-                description=None,
+                description=description,
                 images=[],
             )
             formatted_response.update(annonce_obj.dict())

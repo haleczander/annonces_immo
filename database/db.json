@@ -3849,5 +3849,36 @@
             "publication": null,
             "detection": "15/09/2023 15:29:11"
         }
-    }
+    },
+    "C IMMO": {
+        "2174": {
+            "ville": null,
+            "prix": "730",
+            "surface": null,
+            "url": "https://www.cimmobilier.fr/appartement-a.louer-lille-730E-ref2174.html",
+            "description": "CHAMBRE MEUBLEE DANS UNE BELLE MAISON DE \u00a085M\u00c2\u00b2 SECTEUR BEAUX ARTS\r 3 CHAMBRES \r \u00c2\u00a0\r \u00c2\u00a0\r L'...\t\t\t\t\t\t\t\t\t\t\t\t   ",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "23/09/2023 11:50:19"
+        }
+    },
+    "FAELENS": {},
+    "CAVROIS": {
+        "L6774": {
+            "ville": null,
+            "prix": "630\u00a0\u0080/mois",
+            "surface": null,
+            "url": "https://www.cavrois-immobilier.fr/fiches/3-32-34_54010293/t1-bis-de-26-48m2-dans-le-vieux-lille.html?search_id=1777816358652914&offset=0&page=1&sort=0",
+            "description": "Vieux-Lille - rue de Jemmapes\n\nL'agence vous propose \u00e0 la location un T1 bis enti\u00e8rement r\u00e9nov\u00e9 d'une superficie de 26.48m\u00b2 . Il se compose d'une pi\u00e8ce \u00e0 vivre avec mezzanine, d'une cuisine \u00e9quip\u00e9e enti\u00e8rement r\u00e9nov\u00e9e (\u00e9vier, plaques, r\u00e9frig\u00e9rateur, hotte, branchement machine et meubles bas et hauts) et d'une salle de bain avec WC.\n\nDisponibilit\u00e9 : 18 octobre 2023\nLoyer : 600 euros\nCharges : 30 euros (eau, \u00e9lectricit\u00e9 et entretien des parties communes)\nD\u00e9p\u00f4t de garantie : 600 euros\n\nLe loyer est soumis \u00e0 l'encadrement des loyers, le loyer est non conforme.\nLoyer minor\u00e9 : 336,29\u0080\nLoyer de r\u00e9f\u00e9rence : 479.28\u0080\nLoyer major\u00e9 : 574.61\u0080\n\nL'estimation du co\u00fbt annuel des \u00e9nergies pour un usage standard est estim\u00e9 entre 410\u0080 et 610\u0080 d'apr\u00e8s le prix moyens des \u00e9nergies fix\u00e9s au 01 janvier 2021.\n\nLes informations sur les risques auxquels ce bien est expos\u00e9 sont disponibles sur le site G\u00e9orisques : www.georisques.gouv.fr",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "23/09/2023 11:50:20"
+        }
+    },
+    "DEFRANCE IMMO": {},
+    "SEIZE": {}
 }
