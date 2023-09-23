@@ -494,5 +494,17 @@
         "disponibilite": null,
         "publication": null,
         "detection": "22/09/2023 18:15:54"
+    },
+    {
+        "ville": "Lille",
+        "prix": "828",
+        "surface": "62",
+        "url": "https://www.vacherand.fr/immobilier/location-appartement-lille/ref-AS0155CBG1",
+        "description": "Votre agence VACHERAND IMMOBILIER vous propose en exclusivit\u00e9 \u00e0 la location un magnifique logement neuf BBC de type T2 en duplex d\u0092une surface de...",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": null,
+        "detection": "23/09/2023 03:30:58"
     }
 ]
