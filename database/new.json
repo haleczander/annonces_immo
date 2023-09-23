@@ -1,17 +1,5 @@
 [
     {
-        "ville": "",
-        "prix": "546",
-        "surface": "24",
-        "url": "https://www.nexity.fr/location/FL0780241",
-        "description": "",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": null,
-        "detection": "16/09/2023 09:14:25"
-    },
-    {
         "ville": "Lille",
         "prix": "\n634",
         "surface": "34.22",
