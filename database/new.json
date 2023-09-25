@@ -662,5 +662,17 @@
         "disponibilite": null,
         "publication": "2023-09-25T11:05:33+02:00",
         "detection": "25/09/2023 19:20:05"
+    },
+    {
+        "ville": "LILLE",
+        "prix": 755,
+        "surface": 57,
+        "url": "https://www.ledoux.fr/appartement-location-LILLE-59-156180937.html",
+        "description": "\nAppartement T3 \u00e0 proximit\u00e9  des commerces et du m\u00e9tro sur Fives ,  en r\u00e9sidence  s\u00e9curis\u00e9e comprenant:  s\u00e9jour, cuisine, salle de bains avec baignoire, deux chambres, place de parking.\n",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": null,
+        "detection": "25/09/2023 21:50:05"
     }
 ]
