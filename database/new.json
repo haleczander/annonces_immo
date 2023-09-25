@@ -650,5 +650,29 @@
         "disponibilite": null,
         "publication": null,
         "detection": "25/09/2023 18:35:04"
+    },
+    {
+        "ville": "Lille",
+        "prix": 686.64,
+        "surface": 69.1,
+        "url": "https://fr.foncia.com/location/lille-59/appartement/330959318.htm",
+        "description": "\u00e0 proximit\u00e9 des commerces et du m\u00e9tro, appartement type 3 comrpenant : une entr\u00e9e, un s\u00e9jour, une cuisine, deux chambres, une salle de bain et une cave.",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-25T15:32:18+02:00",
+        "detection": "25/09/2023 19:20:05"
+    },
+    {
+        "ville": "Lille",
+        "prix": 451.72,
+        "surface": 28.2,
+        "url": "https://fr.foncia.com/location/lille-59/appartement/330959286.htm",
+        "description": "dans r\u00e9sidence s\u00e9curis\u00e9e, studio offrant entr\u00e9e avec penderie, pi\u00e8ce de vie avec placard, coin kitchenete, salle de bains et wc. lou\u00e9 avec cave.",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-25T11:05:33+02:00",
+        "detection": "25/09/2023 19:20:05"
     }
 ]
