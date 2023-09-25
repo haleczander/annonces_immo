@@ -566,5 +566,17 @@
         "disponibilite": null,
         "publication": null,
         "detection": "24/09/2023 10:01:01"
+    },
+    {
+        "ville": "LILLE",
+        "prix": "454",
+        "surface": null,
+        "url": "https://www.glv-immobilier.fr/fiches/3-32-34_26097315/beau-studio-avec-parking-vieux-lille.html?search_id=1775915508437856&offset=4&",
+        "description": "",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": null,
+        "detection": "25/09/2023 10:35:05"
     }
 ]
