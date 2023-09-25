@@ -3896,6 +3896,18 @@
             "disponibilite": null,
             "publication": null,
             "detection": "25/09/2023 10:35:05"
+        },
+        "0294GL": {
+            "ville": "LILLE",
+            "prix": "525",
+            "surface": null,
+            "url": "https://www.glv-immobilier.fr/fiches/3-32-34_25274764/grand-studio-28-m2-meuble-lille.html?search_id=1775915508437856&offset=5&",
+            "description": "",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "25/09/2023 10:50:05"
         }
     },
     "C IMMO": {
@@ -3910,6 +3922,18 @@
             "disponibilite": null,
             "publication": null,
             "detection": "23/09/2023 11:50:19"
+        },
+        "2177": {
+            "ville": null,
+            "prix": "535",
+            "surface": null,
+            "url": "https://www.cimmobilier.fr/appartement-a.louer-lille-535E-ref2177.html",
+            "description": "studio \u00c2\u00a0situ\u00c3\u00a9 23, rue Marmora au 2 \u00c3\u00a9tage rue\r L'agence C IMMOBILIER vous propose \u00c3\u00a0 la location...\t\t\t\t\t\t\t\t\t\t\t\t   ",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "25/09/2023 10:50:04"
         }
     },
     "FAELENS": {},
