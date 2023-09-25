@@ -626,5 +626,17 @@
         "disponibilite": null,
         "publication": "2023-09-25T10:16:32+02:00",
         "detection": "25/09/2023 13:20:05"
+    },
+    {
+        "ville": "Lille St Michel",
+        "prix": "580",
+        "surface": "25",
+        "url": "https://www.lille-immo.fr/location/lille/t1/annonce-immobiliere-LG8362",
+        "description": "\n\nTr\u00e8s beau T1bis de 26m2, situ\u00e9 rue Gantois secteur Saint Michel \u00e0 Lille !\nBeau T1 bis de 25.97m2 situ\u00e9 rue de Gantois secteur Saint Michel. Il comprend une entr\u00e9e, un s\u00e9jour, une cuisine \u00e9quip\u00e9e (plaques, frigo-cong\u00e9lateur, \u00e9vier, meubles de rangements haut et bas, branchement MAL), une salle de douche...\n\n",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": null,
+        "detection": "25/09/2023 16:35:04"
     }
 ]
