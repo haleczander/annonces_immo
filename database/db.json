@@ -2289,6 +2289,18 @@
             "disponibilite": null,
             "publication": "2023-09-22T09:44:56+02:00",
             "detection": "22/09/2023 13:30:54"
+        },
+        "330959289": {
+            "ville": "Lille",
+            "prix": 570,
+            "surface": 38.9,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330959289.htm",
+            "description": "Un appartement de type 2 se situant au 2\u1d49 etage comprenant : une entree, un sejour avec coin cuisine equipee, une chambre, une salle de bains avec wc.",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-25T10:16:32+02:00",
+            "detection": "25/09/2023 13:20:05"
         }
     },
     "SERGIC": {
