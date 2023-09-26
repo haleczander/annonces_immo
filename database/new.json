@@ -1,36 +1,6 @@
 [
     {
         "ville": "Lille",
-        "prix": 617.49,
-        "surface": 35.6,
-        "url": "https://fr.foncia.com/location/lille-59/appartement/330953684.htm",
-        "description": "Quartier recherch\u00e9 dans vieux Lille Superbe studio compl\u00e9tement r\u00e9nov\u00e9 \u00e9tat neuf avec cuisine \u00e9quip\u00e9e belle pi\u00e8ce principale  spacieuse studio comprenant pi\u00e8ce principale avec coin cuisine \u00e9quip\u00e9e, salle de douche",
-        "images": [
-            "https://storage.fonciamillenium.net/thumbnail/63e82c008fcffcac47a4de9d/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c00512b4a889be1b049/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c008281b2a121fd62b7/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c0040f3cb2c17e6f078/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c0093b33f5cf82a3452/true/640/480"
-        ],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": "2023-09-18T17:49:12+02:00",
-        "detection": "19/09/2023 10:30:42"
-    },
-    {
-        "ville": "Lille",
-        "prix": 496.81,
-        "surface": 28.5,
-        "url": "https://fr.foncia.com/location/lille-59/appartement/330948964.htm",
-        "description": "studio comprnenant entr\u00e9e, s\u00e9jour avec cuisine, salle de bains, wc et parking",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": "2023-09-18T17:29:32+02:00",
-        "detection": "19/09/2023 10:30:42"
-    },
-    {
-        "ville": "Lille",
         "prix": "\n400",
         "surface": "22.71",
         "url": "https://www.citya.com/annonces/location/appartement/lille-59350/GES23690003-800",
