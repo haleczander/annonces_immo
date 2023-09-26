@@ -1,48 +1,6 @@
 [
     {
         "ville": "Lille",
-        "prix": 749.59,
-        "surface": 63,
-        "url": "https://fr.foncia.com/location/lille-59/appartement/330943726.htm",
-        "description": "Secteur CHR B Calmette, en r\u00e9sidence neuve et de standing, lumineux type 3 avec balcon et une place de parking comprenant: s\u00e9jour, cuisine, deux chambres, une salle de bain et un wc.",
-        "images": [
-            "https://storage.fonciamillenium.net/thumbnail/63e82c00814a2cb73fd6503f/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c00907605ea335465f3/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c00c972ccec6e3bcc04/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c00b7840b0667d685ee/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c0074f58c3d9e3e02b5/true/640/480"
-        ],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": "2023-09-19T15:09:33+02:00",
-        "detection": "19/09/2023 19:30:43"
-    },
-    {
-        "ville": "Lille",
-        "prix": 655,
-        "surface": 60,
-        "url": "https://fr.foncia.com/location/lille-59/appartement/330955221.htm",
-        "description": "R\u00e9sidence de standing avec gardien, espaces verts dans un secteur agr\u00e9able, \u00e0 proxiimit\u00e9 des commerces et des transports. Entr\u00e9e, cuisine, s\u00e9jour, salle de bains, W.C., deux chambres, d\u00e9gagement, placard terrasse et jardin, parking",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": "2023-09-19T14:49:29+02:00",
-        "detection": "19/09/2023 19:30:43"
-    },
-    {
-        "ville": "Lille",
-        "prix": 521.73,
-        "surface": 30.5,
-        "url": "https://fr.foncia.com/location/lille-59/appartement/330953585.htm",
-        "description": "un studio situ\u00e9 au 1 er etage comprenant entr\u00e9e une pi\u00e9ce principal avec coin cuisine \u00e9quip\u00e9e salle de bains et wc",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": "2023-09-19T14:47:29+02:00",
-        "detection": "19/09/2023 19:30:43"
-    },
-    {
-        "ville": "Lille",
         "prix": "636",
         "surface": "28",
         "url": "https://www.vacherand.fr/immobilier/location-appartement-lille/ref-AQ01017072",
@@ -656,5 +614,59 @@
         "disponibilite": null,
         "publication": null,
         "detection": "26/09/2023 18:05:08"
+    },
+    {
+        "ville": "Lille",
+        "prix": 550,
+        "surface": 39.5,
+        "url": "https://fr.foncia.com/location/lille-59/appartement/330959782.htm",
+        "description": "T2 comprenant entr\u00e9e s\u00e9jour cuisine salle de bains et wc et une chambre",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-26T15:56:08+02:00",
+        "detection": "26/09/2023 19:35:08"
+    },
+    {
+        "ville": "Lomme",
+        "prix": 770.26,
+        "surface": 65.7,
+        "url": "https://fr.foncia.com/location/lomme-59160/appartement/330956708.htm",
+        "description": "un appartement comprenant : une entr\u00e9e avec placard, un s\u00e9jour donnant sur un balcon, une cuisine ouverte et am\u00e9nag\u00e9e, deux chambres, une salle de bains avec baignoire et lavabo, des wc et un emplacement de parking.",
+        "images": [
+            "https://storage.fonciamillenium.net/thumbnail/63e82c001e6de1419cf8c72d/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00aae25fe8073e9318/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c0002e673fb449461c2/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00bb64f269892cc211/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c001a5a43c786a6e512/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c009e18d30bd9d57e4b/true/640/480"
+        ],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-26T14:49:02+02:00",
+        "detection": "26/09/2023 19:35:08"
+    },
+    {
+        "ville": "Lille",
+        "prix": 640,
+        "surface": 36.5,
+        "url": "https://fr.foncia.com/location/lille-59/appartement-meuble/330959499.htm",
+        "description": "PARC JB LEBAS ? GARE SAINT-SAUVEUR.   Charmant type 2 meubl\u00e9 de 36.54 m\u00b2.   Il se compose d?un s\u00e9jour, une cuisine ouverte \u00e9quip\u00e9e (plaques, r\u00e9frig\u00e9rateur cong\u00e9lateur, hotte, four), une salle de douche avec lave-linge, wc s\u00e9pares, une chambre avec placards.",
+        "images": [
+            "https://storage.fonciamillenium.net/thumbnail/651192b7e608507d2a330968/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/651192baf59785dad9f303c2/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/651192bdfc7dc805dd005aba/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/651192c2f59785dad9f3078c/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/651192c3e608507d2a330e46/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/651192c7fc7dc805dd005f5a/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/651192caf59785dad9f30a51/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/651192cffc7dc805dd00634e/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/651192d5e608507d2a3313c4/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/651192d8f59785dad9f30f6d/true/640/480"
+        ],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-26T11:21:45+02:00",
+        "detection": "26/09/2023 19:35:08"
     }
 ]
