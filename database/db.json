@@ -4097,6 +4097,18 @@
             "disponibilite": null,
             "publication": null,
             "detection": "23/09/2023 12:28:49"
+        },
+        "STU77COLBERT\u00a0": {
+            "ville": "LILLE",
+            "prix": 599,
+            "surface": null,
+            "url": "https://www.cabinet-choquet.com/detail_annonce.php?IdBien=15721&Mode=2",
+            "description": "LILLE - VAUBAN - RUE COLBERT - ENTRE BD VAUBAN & RUE NATIONALE - PROX GRANDES ECOLES - LA CATHO - COMMERCES - STUDIO AVEC GARAGE - Disponible rapidement",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "26/09/2023 18:05:08"
         }
     }
 }
