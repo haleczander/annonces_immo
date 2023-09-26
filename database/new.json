@@ -632,5 +632,29 @@
         "disponibilite": null,
         "publication": null,
         "detection": "25/09/2023 21:50:05"
+    },
+    {
+        "ville": "Lille",
+        "prix": 570,
+        "surface": 24.6,
+        "url": "https://fr.foncia.com/location/lille-59/appartement/330957475.htm",
+        "description": "un studio meubl\u00e9 comprenant : une entr\u00e9e, une pi\u00e8ce principale, un coin cuisine, une salle de bains, un wc et un garage.",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-26T10:51:32+02:00",
+        "detection": "26/09/2023 13:35:08"
+    },
+    {
+        "ville": "Lille",
+        "prix": 578.28,
+        "surface": 21.8,
+        "url": "https://fr.foncia.com/location/lille-59/appartement/330959582.htm",
+        "description": "dans r\u00e9sidence s\u00e9curis\u00e9e, studio comprenant entr\u00e9e, pi\u00e8ce principale avec coin kitchenette equip\u00e9e, salle de bains et wc ainsi qu'un balcon. parking inclus.",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-26T10:49:18+02:00",
+        "detection": "26/09/2023 13:35:08"
     }
 ]
