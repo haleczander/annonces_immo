@@ -668,5 +668,26 @@
         "disponibilite": null,
         "publication": null,
         "detection": "27/09/2023 07:35:12"
+    },
+    {
+        "ville": "La Madeleine",
+        "prix": 850,
+        "surface": 55,
+        "url": "https://www.orpi.com/annonce-location-appartement-t2-la-madeleine-59110-b-e2uni3",
+        "description": "A la location R\u00e9sidence Aur\u00e9lia 3, Nouvelle Madeleine  Appartement de type 2 de 55m2 avec balcon Comprenant une entr\u00e9e , 2 celliers,, un s\u00e9jour avec b \u2026",
+        "images": [
+            "https://static.orpi.com/images/immo-facile/estate-result-item/office6/orpi_73142/catalog/images/pr_web/1/1/1/6/7/2/6/8/11167268a--202309190933.jpg",
+            "https://static.orpi.com/images/immo-facile/estate-result-item/office6/orpi_73142/catalog/images/pr_web/1/1/1/6/7/2/6/8/11167268b--202309190933.jpg",
+            "https://static.orpi.com/images/immo-facile/estate-result-item/office6/orpi_73142/catalog/images/pr_web/1/1/1/6/7/2/6/8/11167268c--202309190933.jpg",
+            "https://static.orpi.com/images/immo-facile/estate-result-item/office6/orpi_73142/catalog/images/pr_web/1/1/1/6/7/2/6/8/11167268d--202309190933.jpg",
+            "https://static.orpi.com/images/immo-facile/estate-result-item/office6/orpi_73142/catalog/images/pr_web/1/1/1/6/7/2/6/8/11167268e--202309190933.jpg"
+        ],
+        "coordonnees": [
+            50.65181,
+            3.069365
+        ],
+        "disponibilite": null,
+        "publication": null,
+        "detection": "27/09/2023 07:50:12"
     }
 ]
