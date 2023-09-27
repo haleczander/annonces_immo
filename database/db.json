@@ -3972,6 +3972,18 @@
             "disponibilite": null,
             "publication": null,
             "detection": "24/09/2023 10:01:01"
+        },
+        "FL0786453": {
+            "ville": "",
+            "prix": "684",
+            "surface": "51",
+            "url": "https://www.nexity.fr/location/FL0786453",
+            "description": "",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "27/09/2023 07:35:12"
         }
     },
     "GLV": {
