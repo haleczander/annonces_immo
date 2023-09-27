@@ -1,43 +1,6 @@
 [
     {
         "ville": "Lille",
-        "prix": 740,
-        "surface": 70.9,
-        "url": "https://fr.foncia.com/location/lille-59/appartement/330958440.htm",
-        "description": "dans petit immeuble, t2bis en duplex comprenant au 1\u1d49\u02b3 etage : entr\u00e9e, s\u00e9jour donnant sur terrasse, cuisine \u00e9quip\u00e9e au 2\u1d49 etage : 1 chambre, un bureau, salle de bains et wc.",
-        "images": [
-            "https://storage.fonciamillenium.net/thumbnail/63e82c00467aac17e291d783/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c00f7a642be2481d766/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c00df9fad2cc056fbae/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c00cd18a737780856eb/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c00980b3d8fdc0a9fe9/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c009677de49ad510db9/true/640/480"
-        ],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": "2023-09-20T12:01:23+02:00",
-        "detection": "20/09/2023 19:15:46"
-    },
-    {
-        "ville": "Lomme",
-        "prix": 750,
-        "surface": 49.3,
-        "url": "https://fr.foncia.com/location/lomme-59160/appartement/330958417.htm",
-        "description": "Appartement type 3, r\u00e9nov\u00e9 int\u00e9gralement. Comprenant une entr\u00e9e, un s\u00e9jour lumineux avec acc\u00e8s balcon, deux chambres, une salle de douche, une cuisine \u00e9quip\u00e9e avec un espace buanderie, wc s\u00e9par\u00e9. 3 e \u00e9tage sans acsenseur. Avec le logement, deux caves, un garage et un jardin privatif. Face au m\u00e9tro Maison des Enfants. Proche des commerces, secteur calme.Charges individuelles \u00e9lectriques.",
-        "images": [
-            "https://storage.fonciamillenium.net/thumbnail/650ab621b9043669f419037a/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/650ab627cd7a0ed7a0e2d3fb/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/650ab62acd7a0ed7a0e2d5ea/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/650ab62eb9043669f4190b19/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/650ab634cd7a0ed7a0e2da28/true/640/480"
-        ],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": "2023-09-20T11:31:40+02:00",
-        "detection": "20/09/2023 19:15:46"
-    },
-    {
-        "ville": "Lille",
         "prix": "630",
         "surface": "44",
         "url": "https://www.sergic.com/annonces-immobilieres/location-2-pieces-44-59000-lille-07-1170-01-2011/",
@@ -663,5 +626,37 @@
         "disponibilite": null,
         "publication": null,
         "detection": "27/09/2023 18:05:12"
+    },
+    {
+        "ville": "Lille",
+        "prix": 770,
+        "surface": 46.7,
+        "url": "https://fr.foncia.com/location/lille-59/appartement/330960091.htm",
+        "description": "dans r\u00e9sidence neuve proche du centre et de la citadelle, grand t2 lumineux au 4\u1d49 \u00e9tage avec parking,  \u00e0 saisir! s\u00e9jour/cuisine, chambre, salle de bains, wc, parking",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-27T16:06:50+02:00",
+        "detection": "27/09/2023 19:20:12"
+    },
+    {
+        "ville": "Lille",
+        "prix": 801.5,
+        "surface": 48.1,
+        "url": "https://fr.foncia.com/location/lille-59/appartement/330953985.htm",
+        "description": "dans une belle r\u00e9sidence r\u00e9cente et \u00e0 deux pas du centre vieux lille joli t2 comprenant: hall avec placard, s\u00e9jour, cuisine \u00e9quip\u00e9e, une chambre placard salle de bains et wc. un balcon parking priv\u00e9 pour une voiture",
+        "images": [
+            "https://storage.fonciamillenium.net/thumbnail/63e82c006c8e77b16dab1e0c/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00300be45e09bf245b/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00776b845d858bc3e1/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c008b2b0620b1896bdb/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00d3d5f7ba837684c8/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00cc10acc350e2e63b/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00864e76ac93f574ec/true/640/480"
+        ],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-27T11:50:54+02:00",
+        "detection": "27/09/2023 19:20:12"
     }
 ]

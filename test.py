@@ -54,7 +54,7 @@ from modules.Annonces import *
 # infos = soup.select(".article")
 # print(len(infos))
 
-annonces = ChoquetAnnonces(['lille', 'la madeleine'], 1200, 20)
+annonces = VacherandAnnonces(['lille', 'la madeleine'], 1200, 20)
 # print(annonces.get_raw_response())
 # print(annonces.query_url())
 # text = requests.get(annonces.query_url()).text
