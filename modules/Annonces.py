@@ -263,7 +263,7 @@ class VacherandAnnonces(Annonces):
         while True: 
             page_resp = requests.post(self.query_url(page), data=self.request_body()).text
             soup = self.html_to_soup(page_resp)
-            nb = int(soup.find("span", class_="nb").text.split(" ")[-2])
+            nb = int(soup.find("h1", class_="ti30").text.split(" ")[0])
             annonces = soup.select(".liste_biens article") 
             response += annonces
             if nb <= page * per_page:
