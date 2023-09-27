@@ -1,18 +1,6 @@
 [
     {
         "ville": "Lille",
-        "prix": "636",
-        "surface": "28",
-        "url": "https://www.vacherand.fr/immobilier/location-appartement-lille/ref-AQ01017072",
-        "description": "Votre agence VACHERAND IMMOBILIER vous propose \u00e0 la location ce T1 bis de 28.22m2 au 1er \u00e9tage d'un petit immeuble place des Reignaux \u00e0 LILLE,...",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": null,
-        "detection": "20/09/2023 03:30:45"
-    },
-    {
-        "ville": "Lille",
         "prix": "763",
         "surface": "40",
         "url": "https://www.sergic.com/annonces-immobilieres/location-2-pieces-40-59800-lille-07-0795-01-0024/",
