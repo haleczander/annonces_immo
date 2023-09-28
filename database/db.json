@@ -2459,6 +2459,30 @@
             "disponibilite": null,
             "publication": "2023-09-27T11:50:54+02:00",
             "detection": "27/09/2023 19:20:12"
+        },
+        "330960237": {
+            "ville": "Lille",
+            "prix": 530.76,
+            "surface": 31.6,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330960237.htm",
+            "description": "studio au 1\u1d49\u02b3 \u00e9tage comprenant une entr\u00e9e, une pi\u00e8ce de vie, un coin nuit une cuisine \u00e9quip\u00e9e et une salle de bain cave inclus. compl\u00e9ment de loyer de 26.90 \u20ac pour la cave et le secteur.",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-27T22:38:47+02:00",
+            "detection": "28/09/2023 10:21:57"
+        },
+        "330960174": {
+            "ville": "Lille",
+            "prix": 590,
+            "surface": 31,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330960174.htm",
+            "description": "R\u00e9sidence de standing moderne et residentiel appartement fonctionnel parking en sous sol. hall dentr\u00e9e avec rangement, s\u00e9jour, salle de bains avec wc, cuisine \u00e9quip\u00e9e.",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-27T16:37:44+02:00",
+            "detection": "28/09/2023 10:21:57"
         }
     },
     "SERGIC": {
