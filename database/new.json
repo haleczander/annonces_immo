@@ -1,17 +1,5 @@
 [
     {
-        "ville": "",
-        "prix": "638",
-        "surface": "44",
-        "url": "https://www.nexity.fr/location/FL0786064",
-        "description": "",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": null,
-        "detection": "21/09/2023 07:45:50"
-    },
-    {
         "ville": "Lille Sebastopol",
         "prix": "768",
         "surface": "65",
