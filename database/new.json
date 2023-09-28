@@ -1,29 +1,5 @@
 [
     {
-        "ville": "Lille",
-        "prix": "630",
-        "surface": "45",
-        "url": "https://www.vacherand.fr/immobilier/location-appartement-lille/ref-AP0100720102",
-        "description": "Bel appartement Type 2 \u00e0 louer dans une r\u00e9sidence neuve, situ\u00e9e Rue Victor Renard \u00e0 Lille.Ce logement dispose d'une entr\u00e9e, s\u00e9jour avec cuisine...",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": null,
-        "detection": "21/09/2023 03:30:50"
-    },
-    {
-        "ville": "Lille",
-        "prix": "660",
-        "surface": "45",
-        "url": "https://www.vacherand.fr/immobilier/location-appartement-lille/ref-AP0100720208",
-        "description": "Appartement type 2 dans r\u00e9sidence r\u00e9cente rue Victor Renard \u00e0 Lille comprenant une entr\u00e9e, un s\u00e9jouravec coin cuisine \u00e9quip\u00e9e, une chambre,...",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": null,
-        "detection": "21/09/2023 03:30:50"
-    },
-    {
         "ville": "",
         "prix": "638",
         "surface": "44",
