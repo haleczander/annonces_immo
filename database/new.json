@@ -702,5 +702,17 @@
         "disponibilite": "20231011",
         "publication": null,
         "detection": "28/09/2023 12:07:01"
+    },
+    {
+        "ville": "Lille",
+        "prix": 622,
+        "surface": 48.4,
+        "url": "https://fr.foncia.com/location/lille-59/appartement/330960178.htm",
+        "description": "residence situee a proximite des commerces, avec ascenceur concierge. rangements, balcon et parking en sous sol Hall, s\u00e9jour, cuisine 1 chambre, salle de bains, wc.",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-28T09:58:47+02:00",
+        "detection": "28/09/2023 13:21:57"
     }
 ]
