@@ -629,5 +629,29 @@
         "disponibilite": null,
         "publication": null,
         "detection": "28/09/2023 07:36:57"
+    },
+    {
+        "ville": "Lille",
+        "prix": "843",
+        "surface": "61",
+        "url": "https://www.sergic.com/annonces-immobilieres/location-3-pieces-61-59000-lille-14-0547-02-0210/",
+        "description": "\nQuartier Euratechnologies. Proche du m\u00e9tro Canteleu et des commerces. Appartement neuf au dernier \u00e9tage dans une r\u00e9sidence atypique offrant : une entr\u00e9e, un salon/s\u00e9jour parquet\u00e9, une cuisine \u00e9quip\u00e9e (une plaque et un four), deux chambres, une salle de bains avec une baignoire et un WC s\u00e9par\u00e9. L\u2019appartement dispose d\u2019un balcon et de deux places de parking en ext\u00e9rieur. Le chauffage est individuel au gaz. Les informations sur les risques auxquels ce bien est expos\u00e9 sont disponibles sur le site G\u00e9orisque : https://www.georisques.gouv.fr\n",
+        "images": [
+            "https://www.sergic.com/wp-content/uploads/2023/09/eaaa766760b445def669db44769974a7.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/f96deeaf5ecc0be27b3a2001f6880697.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/9cc829c5c4b95fee0cdbf1b40afdf4e8.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/eaf0f992d9b5201e7a2c2ae8d9166f27.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/a8b6af11415ea0e1eea77ef4f3423aaa.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/4bc8c66c9b97744702e4b8ac8672e0df.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/c85a3bd059e99d6cebe52fc4fd59e1bf.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/b10fcf5eec4ae673907227c734431c07.jpg"
+        ],
+        "coordonnees": [
+            "50.6349250178",
+            "3.0188794136"
+        ],
+        "disponibilite": "20231028",
+        "publication": null,
+        "detection": "28/09/2023 10:07:01"
     }
 ]
