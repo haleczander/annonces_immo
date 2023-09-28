@@ -677,5 +677,30 @@
         "disponibilite": null,
         "publication": null,
         "detection": "28/09/2023 10:36:57"
+    },
+    {
+        "ville": "Lille",
+        "prix": "828",
+        "surface": "46",
+        "url": "https://www.sergic.com/annonces-immobilieres/location-2-pieces-46-59800-lille-07-0704-04-0043/",
+        "description": "\nSur le secteur de Saint-Maurice, nous vous proposons \u00e0 la location ce type 2 dans une r\u00e9sidence de standing situ\u00e9e de 2020, \u00e0 proximit\u00e9 du m\u00e9tro, de la gare Lille Europe et des commerces. Ce logement vous offre un hall d\u2019entr\u00e9e avec placard, un beau s\u00e9jour donnant acc\u00e8s \u00e0 une terrasse de 16 m\u00b2, une cuisine \u00e9quip\u00e9e (plaques, four et hotte), une chambre avec un bel espace dressing \u00e0 am\u00e9nager, une salle de douche. Vous b\u00e9n\u00e9ficiez \u00e9galement d\u2019un parking privatif. Disponible \u00e0 partir du 11 octobre. Les informations sur les risques auxquels ce bien est expos\u00e9 sont disponibles sur le site G\u00e9orisque : https://www.georisques.gouv.fr\n",
+        "images": [
+            "https://www.sergic.com/wp-content/uploads/2023/09/3253d80fa74f41cfbaf8c004fd57ea31.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/260d9b15e1677d1488212b7edab53069.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/e023acfdd7c04f5ec0a53a524d7ce575.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/59dae6fcad67f071fa6a986d54ed5789.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/d65401682bbe5162ac0637e33c8f3164.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/1ea0b4ca20efbbbd98d9fdcf0b060bde.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/b3e40468e3861011b365d149bd445e73.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/1ba486c5a2909b4ae468ed10f2bbef09.jpg",
+            "https://www.sergic.com/wp-content/uploads/2023/09/0e37a41ab6e7a8154d5f24fbb08e2e82.jpg"
+        ],
+        "coordonnees": [
+            "50.6405589",
+            "3.0814587"
+        ],
+        "disponibilite": "20231011",
+        "publication": null,
+        "detection": "28/09/2023 12:07:01"
     }
 ]
