@@ -2495,6 +2495,38 @@
             "disponibilite": null,
             "publication": "2023-09-28T09:58:47+02:00",
             "detection": "28/09/2023 13:21:57"
+        },
+        "330960410": {
+            "ville": "Lille",
+            "prix": 400,
+            "surface": 25.2,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330960410.htm",
+            "description": "Dans un quartier vivant, proche des \u00e9coles, dans un petit immeuble fonctionnel et lumineux, studio comprenant : entr\u00e9e, s\u00e9jour avec coin kitchenette, salle de bains, WC",
+            "images": [
+                "https://storage.fonciamillenium.net/thumbnail/63e82c0027139fa7a010331a/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c005084c3dcf74e0754/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c00ec1f1006058b39ac/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c000661a741c526da4d/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c00096ce3b2b9fb337b/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c00cf2f3484521c95bb/true/640/480",
+                "https://storage.fonciamillenium.net/thumbnail/63e82c00712664c3c9b00d84/true/640/480"
+            ],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-28T15:07:52+02:00",
+            "detection": "28/09/2023 19:21:57"
+        },
+        "330960404": {
+            "ville": "Lille",
+            "prix": 702,
+            "surface": 40.3,
+            "url": "https://fr.foncia.com/location/lille-59/appartement/330960404.htm",
+            "description": "id\u00e9alement situ\u00e9 proche du centre ville et de la citadelle, dans une r\u00e9sidence agreable, appartement type 2 comprenant : une entr\u00e9e, un s\u00e9jour, une cuisine, une chambre, une salle de bains et une place de parking",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": "2023-09-28T14:08:59+02:00",
+            "detection": "28/09/2023 19:21:57"
         }
     },
     "SERGIC": {

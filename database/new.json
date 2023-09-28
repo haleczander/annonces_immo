@@ -1,36 +1,6 @@
 [
     {
         "ville": "Lille",
-        "prix": 538.85,
-        "surface": 31.1,
-        "url": "https://fr.foncia.com/location/lille-59/appartement/330957596.htm",
-        "description": "appartement de type 1 comprenant s\u00e9jour, cusine, salle de bains, toilettes",
-        "images": [
-            "https://storage.fonciamillenium.net/thumbnail/63e82c00477c6a6a747d16b9/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c00da76c2ebb8bfc4de/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c00801a03074a9be10d/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c0021d30e8c1b50b3f8/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c0046335ec20665f5b1/true/640/480"
-        ],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": "2023-09-21T12:08:06+02:00",
-        "detection": "21/09/2023 19:15:50"
-    },
-    {
-        "ville": "Lille",
-        "prix": 779,
-        "surface": 61.2,
-        "url": "https://fr.foncia.com/location/lille-59/appartement/330958689.htm",
-        "description": "RESIDENCE AVEC ASCENSEUR ET CONCIERGE BALCON ET RANGEMENT PARKING SOUS SOL entr\u00e9e, s\u00e9jour, cuisine, deux chambres, salle de bains, wc, parking.",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": "2023-09-21T11:16:28+02:00",
-        "detection": "21/09/2023 19:15:50"
-    },
-    {
-        "ville": "Lille",
         "prix": "409",
         "surface": "27",
         "url": "https://www.vacherand.fr/immobilier/location-appartement-lille/ref-AQ01017781",
@@ -711,5 +681,37 @@
         "disponibilite": "20231010",
         "publication": null,
         "detection": "28/09/2023 16:07:03"
+    },
+    {
+        "ville": "Lille",
+        "prix": 400,
+        "surface": 25.2,
+        "url": "https://fr.foncia.com/location/lille-59/appartement/330960410.htm",
+        "description": "Dans un quartier vivant, proche des \u00e9coles, dans un petit immeuble fonctionnel et lumineux, studio comprenant : entr\u00e9e, s\u00e9jour avec coin kitchenette, salle de bains, WC",
+        "images": [
+            "https://storage.fonciamillenium.net/thumbnail/63e82c0027139fa7a010331a/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c005084c3dcf74e0754/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00ec1f1006058b39ac/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c000661a741c526da4d/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00096ce3b2b9fb337b/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00cf2f3484521c95bb/true/640/480",
+            "https://storage.fonciamillenium.net/thumbnail/63e82c00712664c3c9b00d84/true/640/480"
+        ],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-28T15:07:52+02:00",
+        "detection": "28/09/2023 19:21:57"
+    },
+    {
+        "ville": "Lille",
+        "prix": 702,
+        "surface": 40.3,
+        "url": "https://fr.foncia.com/location/lille-59/appartement/330960404.htm",
+        "description": "id\u00e9alement situ\u00e9 proche du centre ville et de la citadelle, dans une r\u00e9sidence agreable, appartement type 2 comprenant : une entr\u00e9e, un s\u00e9jour, une cuisine, une chambre, une salle de bains et une place de parking",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-28T14:08:59+02:00",
+        "detection": "28/09/2023 19:21:57"
     }
 ]
