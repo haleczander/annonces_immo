@@ -1,53 +1,5 @@
 [
     {
-        "ville": "Lille",
-        "prix": "409",
-        "surface": "27",
-        "url": "https://www.vacherand.fr/immobilier/location-appartement-lille/ref-AQ01017781",
-        "description": "Votre agence VACHERAND IMMOBILIER vous propose \u00e0 la location ce magnifique studio de 26.80 m2 situ\u00e9 au 3\u00e8me \u00e9tage d'une r\u00e9sidence r\u00e9cente et...",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": null,
-        "detection": "22/09/2023 03:30:54"
-    },
-    {
-        "ville": "Lille",
-        "prix": "455",
-        "surface": "21",
-        "url": "https://www.vacherand.fr/immobilier/location-appartement-lille/ref-AS01010333",
-        "description": "Votre agence VACHERAND IMMOBILIER vous propose ce studio refait \u00e0 neuf de 20.98 m2 situ\u00e9 au 3\u00e8me \u00e9tage de la copropri\u00e9t\u00e9. L\u0092appartement se...",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": null,
-        "detection": "22/09/2023 03:30:54"
-    },
-    {
-        "ville": "Lille",
-        "prix": "457",
-        "surface": "21",
-        "url": "https://www.vacherand.fr/immobilier/location-appartement-lille/ref-AQ01010496",
-        "description": "Votre agence VACHERAND IMMOBILIER vous propose \u00e0 la location ce studio MEUBLE de 20.88 m2 situ\u00e9 au dernier \u00e9tage d'une petite copropri\u00e9t\u00e9, rue...",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": null,
-        "detection": "22/09/2023 03:30:54"
-    },
-    {
-        "ville": "Lille",
-        "prix": "742",
-        "surface": "54",
-        "url": "https://www.vacherand.fr/immobilier/location-appartement-lille/ref-AS01006181",
-        "description": "Votre agence VACHERAND IMMOBILIER vous propose \u00e0 la location ce beau T2 de 54.31m2 au coeur du centre ville de Lille au niveau du square Foche,...",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": null,
-        "detection": "22/09/2023 03:30:54"
-    },
-    {
         "ville": "",
         "prix": "414",
         "surface": "24",
