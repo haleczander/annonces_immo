@@ -3993,6 +3993,28 @@
             "disponibilite": null,
             "publication": null,
             "detection": "27/09/2023 07:50:12"
+        },
+        "B-E2V6V9": {
+            "ville": "Lille",
+            "prix": 843,
+            "surface": 55,
+            "url": "https://www.orpi.com/annonce-location-appartement-t2-lille-59000-b-e2v6v9",
+            "description": "(GAD) LILLE- GRAND PALAIS   Appartement de type 2  de 55 m2 en r\u00e9sidence neuve et s\u00e9curis\u00e9e, offrant une pi\u00e8ce de vie lumineuse avec terrasse, cuisine \u2026",
+            "images": [
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_web/1/1/1/9/6/7/6/2/11196762a--202309131801.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_web/1/1/1/9/6/7/6/2/11196762b--202309131801.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_web/1/1/1/9/6/7/6/2/11196762c--202309131801.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_web/1/1/1/9/6/7/6/2/11196762d--202309131801.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_web/1/1/1/9/6/7/6/2/11196762e--202309131801.jpg",
+                "https://static.orpi.com/images/immo-facile/estate-result-item/office23/orpi_73336/catalog/images/pr_web/1/1/1/9/6/7/6/2/11196762f--202309131801.jpg"
+            ],
+            "coordonnees": [
+                50.623822,
+                3.081133
+            ],
+            "disponibilite": null,
+            "publication": null,
+            "detection": "29/09/2023 10:37:01"
         }
     },
     "NEXITY": {
