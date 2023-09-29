@@ -1,17 +1,5 @@
 [
     {
-        "ville": "",
-        "prix": "414",
-        "surface": "24",
-        "url": "https://www.nexity.fr/location/FL0785180",
-        "description": "",
-        "images": [],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": null,
-        "detection": "22/09/2023 07:45:54"
-    },
-    {
         "ville": "Lille",
         "prix": 474.45,
         "surface": 32.7,
