@@ -898,6 +898,18 @@
             "disponibilite": null,
             "publication": null,
             "detection": "27/09/2023 18:05:12"
+        },
+        "GES22260021-801": {
+            "ville": "Lille",
+            "prix": "\n406,36",
+            "surface": "23.57",
+            "url": "https://www.citya.com/annonces/location/appartement/lille-59350/GES22260021-801",
+            "description": "EXCLUSIVIT\u00c9\n\u00c0 louer : \u00e0 deux pas du m\u00e9tro Bois Blancs (ligne M2), \u00e0 LILLE (59000), venez d\u00e9couvrir cet appartement 1 [...]\n                            pi\u00e8ce de 23,57 m\u00b2. Il offre une kitchenette. L'appartement poss\u00e8de un chauffage individuel \u00e9lectrique.\nTous les types d'\u00e9tablissements scolaires (de la maternelle au lyc\u00e9e) se trouvent \u00e0 moins de 10 minutes \u00e0 pied. Niveau transports en commun, il y a les bus 18 et 76 ainsi que la ligne de m\u00e9tro M2 (Bois Blancs) juste \u00e0 c\u00f4t\u00e9. L'a\u00e9roport Lille-Lesquin est accessible \u00e0 10 km. On trouve des restaurants, des supermarch\u00e9s, des boulangeries, des commerces, un bureau de poste et trois boucheries \u00e0 quelques minutes.\nN'h\u00e9sitez pas \u00e0 prendre contact avec nos conseillers pour une premi\u00e8re visite de cet appartement en location.\n\n Loyer de 406,36 euros par mois charges comprises dont 30,00 euros par mois de provision pour charges (soumis \u00e0 la r\u00e9gularisation annuelle). \n Soit avec Assurance Habitation et Assistance* ( 14.00 euros ) : 420,36 euros. \n Les honoraires charge locataire sont de 306,41 euros ( soit 13,00 euros/m\u00b2 ) dont 70,71 euros pour \u00e9tat des lieux ( soit 3,00 euros/m\u00b2 ). \n Vous pouvez consulter les bar\u00e8mes d'honoraires \u00e0 l'adresse suivante : \n https://www.citya.com/agences-immobilieres/lille-59350/178#bareme-location \nLogement \u00e0 consommation \u00e9nerg\u00e9tique excessive. Montant estim\u00e9 des d\u00e9penses annuelles d'\u00e9nergie pour un usage standard : entre 580 et 810 euros. Prix moyens des \u00e9nergies index\u00e9s en 2021. Zone soumise \u00e0 encadrement des loyers. Le loyer de base du bien propos\u00e9 est de 376,36 euros, le loyer de r\u00e9f\u00e9rence major\u00e9 (fix\u00e9 par arr\u00eat\u00e9 pr\u00e9fectoral) est de 466,686 eurosLes informations sur les risques auxquels ce bien est expos\u00e9 sont disponibles sur le site G\u00e9orisques : https://www.georisques.gouv.fr.  *Service facultatif. Contribution annuelle \"attentats\" non comprise. Voir conditions en agence. \n ",
+            "images": [],
+            "coordonnees": null,
+            "disponibilite": null,
+            "publication": null,
+            "detection": "29/09/2023 18:07:01"
         }
     },
     "FONCIA": {
@@ -3470,6 +3482,51 @@
             "disponibilite": "20231010",
             "publication": null,
             "detection": "28/09/2023 16:07:03"
+        },
+        "14_0192_02_0018": {
+            "ville": "La Madeleine",
+            "prix": "704",
+            "surface": "42",
+            "url": "https://www.sergic.com/annonces-immobilieres/location-2-pieces-42-59110-la-madeleine-14-0192-02-0018/",
+            "description": "\nDans une r\u00e9sidence r\u00e9cente et s\u00e9curis\u00e9e, venez d\u00e9couvrir ce charmant appartement vous offrant un hall d\u2019entr\u00e9e avec un placard, un s\u00e9jour donnant sur le balcon, une cuisine ouverte \u00e9quip\u00e9e et meubl\u00e9e, une chambre avec un placard, une salle de bains avec une baignoire et des wc s\u00e9par\u00e9s. Une place de parking privative compl\u00e8te ce bien. Le chauffage est au gaz individuel. Proximit\u00e9 des commerces et des transports en commun. Les informations sur les risques auxquels ce bien est expos\u00e9 sont disponibles sur le site G\u00e9orisque : https://www.georisques.gouv.fr\n",
+            "images": [
+                "https://www.sergic.com/wp-content/uploads/2023/09/dce72617e2a6e875568b373acf85c902.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/385185dc45f0c62c7a844d468a8b75a8.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/548e2905224c7c2f5d539b1234b4760e.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/4420671debf60ea2b2f80b782befdab9.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/07f338e3dfd55e42c787b1f9e4bf55b0.jpg"
+            ],
+            "coordonnees": [
+                "50.6597377532",
+                "3.0749226809"
+            ],
+            "disponibilite": "20231016",
+            "publication": null,
+            "detection": "29/09/2023 18:07:36"
+        },
+        "14_0033_01_0005": {
+            "ville": "La Madeleine",
+            "prix": "733",
+            "surface": "45",
+            "url": "https://www.sergic.com/annonces-immobilieres/location-2-pieces-45-59110-la-madeleine-14-0033-01-0005/",
+            "description": "\nSur le secteur Romarin, \u00e0 5 minutes \u00e0 pied du Tramway, dans une r\u00e9sidence r\u00e9cente et s\u00e9curis\u00e9e, cet appartement dispose d\u2019un hall d\u2019entr\u00e9e avec placard, un s\u00e9jour lumineux avec un acc\u00e8s au balcon, une cuisine ouverte et \u00e9quip\u00e9e, une chambre avec placard, une salle de bain avec baignoire et vasque, les wc sont s\u00e9par\u00e9s. L\u2019appartement dispose d\u2019une place de parking en ext\u00e9rieur. Le chauffage est individuel \u00e9lectrique. Les informations sur les risques auxquels ce bien est expos\u00e9 sont disponibles sur le site G\u00e9orisque : https://www.georisques.gouv.fr\n",
+            "images": [
+                "https://www.sergic.com/wp-content/uploads/2023/09/82c4d8feaa259b20d65e41efa2b081b3.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/36efeac2ab222887485b4ce833a0034d.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/c65e37a1daca735a5e384af4dae90060.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/3be2af595b50e6f035ab7c4681231aa1.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/83927007772ceb1d83a2a717dfdee9b5.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/c1c6676abe2c0178bbd1d571d76209c2.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/715dbb4979f743da27bd9ac3b7d7feac.jpg",
+                "https://www.sergic.com/wp-content/uploads/2023/09/8f1213b559d151816d4f356f29ec111d.jpg"
+            ],
+            "coordonnees": [
+                "50.6474266052",
+                "3.0747549534"
+            ],
+            "disponibilite": "20231017",
+            "publication": null,
+            "detection": "29/09/2023 18:07:36"
         }
     },
     "LEDOUX": {
