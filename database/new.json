@@ -682,5 +682,17 @@
         "disponibilite": "20231017",
         "publication": null,
         "detection": "29/09/2023 18:07:36"
+    },
+    {
+        "ville": "Lille",
+        "prix": 758.04,
+        "surface": 43.5,
+        "url": "https://fr.foncia.com/location/lille-59/appartement/330957377.htm",
+        "description": "un appartement comprenant : entr\u00e9e, s\u00e9jour, cuisine, une chambre, une salle de bains, des wc et une cave.",
+        "images": [],
+        "coordonnees": null,
+        "disponibilite": null,
+        "publication": "2023-09-29T15:27:03+02:00",
+        "detection": "29/09/2023 19:22:02"
     }
 ]
