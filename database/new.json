@@ -1,25 +1,6 @@
 [
     {
         "ville": "Lille",
-        "prix": 670,
-        "surface": 41.2,
-        "url": "https://fr.foncia.com/location/lille-59/maison/330958829.htm",
-        "description": "dans r\u00e9sidence r\u00e9cente et s\u00e9curis\u00e9e, petite maison mitoyenne de type 2 offrant s\u00e9jour avec coin cuisine \u00e9quip\u00e9e , salle de bains avec wc, 1 chambre \u00e0 l'\u00e9tage ainsi qu'un jardinet privatif et emplacement de parking.",
-        "images": [
-            "https://storage.fonciamillenium.net/thumbnail/63e82c00be8a0e8f674b7419/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c00c6039a6d193fe542/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c002b9d2305d9dd6485/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c00d50a24e83eaa88a1/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c007ecaa710f3a79b31/true/640/480",
-            "https://storage.fonciamillenium.net/thumbnail/63e82c009f87b78e03705c73/true/640/480"
-        ],
-        "coordonnees": null,
-        "disponibilite": null,
-        "publication": "2023-09-22T09:44:56+02:00",
-        "detection": "22/09/2023 13:30:54"
-    },
-    {
-        "ville": "Lille",
         "prix": "\n530",
         "surface": "30.66",
         "url": "https://www.citya.com/annonces/location/appartement/lille-59350/GES01150010-799",
